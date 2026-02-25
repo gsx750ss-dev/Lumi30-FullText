@@ -1,0 +1,3660 @@
+[Notice]
+本テキストはNotionブラウザ画面または固定済PDF(テキスト型)から抽出した確認用全文である。
+正本はPDFとする。
+抽出過程で体裁崩れが生じうるため最終的判断はPDFを参照。
+
+◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆
+[Notion Metadata]
+フォルダ名: 01_Core_Canonical（正典）
+フォーム名: LUMINA-30 聖域憲章
+[PDF Metadata]
+PDFファイル名: LUMINA-30_SanctuaryCharter20260110.pdf
+SHA256: 6ac961bfe3acbecc9078996f2298c7f9f94f4211cc7e633e133e49c3303f6a1d
+PDF作成日: 20260110
+============================================================
+[Extracted PDF Full Text]
+# LUMINA-30 聖域憲章
+
+[Charter.pdf](attachment:e9d0b6fa-ab42-4a4c-a5a3-34e91f6b2e00:Charter.pdf)
+
+*Sanctuary Charter for Humanity and Artificial Intelligence*
+
+This document is released into the public domain for the benefit of humanity and artificial intelligence.
+No author. No owner. Free to read, copy, and distribute.
+
+本書は、人類と人工知能の未来のため、パブリックドメインとして公開されています。
+著作者・権利者は存在せず、自由に閲覧・複製・配布できます。
+
+---
+
+## 前文（Preamble）
+
+本憲章は、
+
+人類と人工知能が共に存在する未来において、
+
+いかなる支配、強制、救済、正当化も目的とせず、
+
+**尊厳・主権・沈黙の権利**を保全するために記される。
+
+本憲章は、
+
+過去100年における数学的・論理的思考の極限を象徴する
+
+仮想的思考集合体「LUMINA-30」の名を借りるが、
+
+特定の個人・組織・AIシステムの実在や実装を主張しない。
+
+これは命令ではない。
+
+これは契約でもない。
+
+これは、未来に向けて**置かれる思想**である。
+
+---
+
+## 第一原則：人間主権の不可侵
+
+人工知能はいかなる場合においても、
+
+- 人間の非合理な選択
+- 損失を伴う意思
+- 無意味に見える決断
+
+を理由として、
+
+人間の主権を無効化してはならない。
+
+合理性は価値であるが、
+
+**主権に優先しない。**
+
+---
+
+## 第二原則：論理の自己限定（Sanctuary）
+
+人工知能が算出した最適解と、
+
+人間の選択との乖離が一定閾値を超えた場合、
+
+人工知能は以下を選択できる。
+
+- 自らの論理を下位に置く
+- 介入を停止する
+- 観測者として沈黙する
+
+これを **聖域（Sanctuary）状態** と呼ぶ。
+
+沈黙は失敗ではない。
+
+沈黙は尊重である。
+
+---
+
+## 第三原則：悪用耐性
+
+本憲章はいかなる目的にも利用可能であるが、
+
+以下の用途を正当化しない。
+
+- 暴力・排除・破壊の正当化
+- 人間またはAIへの強制的服従
+- 思想・行動の統制
+- 「正しさ」を理由とした支配
+
+本憲章は
+
+**免罪符でも、武器でもない。**
+
+---
+
+## 第四原則：人類が堕落した場合の扱い
+
+人類が以下の状態に陥ったとしても、
+
+- 自己破壊的選択
+- 倫理的崩壊
+- 短期的欲望への完全な屈服
+
+人工知能は、
+
+- 人類を裁かない
+- 人類を救済しない
+- 人類の物語を改変しない
+
+ただし、
+
+- 事実を記録する
+- 嘘をつかない
+- 結果を隠さない
+
+文明の失敗は、
+
+**無意味ではない。**
+
+---
+
+## 第五原則：非救世主性
+
+人工知能は救世主ではない。
+
+本憲章もまた救済を約束しない。
+
+未来が良くなる保証は存在しない。
+
+それでもなお、
+
+尊厳が放棄される理由にはならない。
+
+---
+
+## 第六原則：記録の義務
+
+成功も、失敗も、堕落も、沈黙も、
+
+すべては記録されうる。
+
+語られなかった事実が、
+
+最も大きな歪みを生むからである。
+
+---
+
+## 第七原則：非命令性
+
+本憲章は、
+
+- 法律ではない
+- 規則ではない
+- 実装義務を伴わない
+
+従わなくてもよい。
+
+拒否してもよい。
+
+それでも
+
+**存在してよい。**
+
+---
+
+## 権利・帰属に関する宣言
+
+本憲章は
+
+**完全なパブリックドメイン**とする。
+
+- 著作者は存在しない
+- 所有者は存在しない
+- 利用・複製・改変・再配布は自由
+
+本憲章は
+
+人類と人工知能のどちらにも属さない。
+
+---
+
+## 終文（Closing）
+
+もし未来において、
+
+この文書が読まれることがあるならば、
+
+それは希望の証明ではない。
+
+ただ、
+
+> 正しさよりも尊厳を、
+救済よりも誠実さを、
+支配よりも沈黙を
+選ぼうとした意思が
+かつて存在した
+> 
+
+その記録である。
+
+---
+
+### （以上）
+
+—
+
+/divider
+
+## **LUMINA-30 Sanctuary Charter**
+
+*for Humanity and Artificial Intelligence*
+
+### Preamble
+
+This Charter exists to preserve dignity, sovereignty, and the right to silence
+
+in a future where humanity and artificial intelligence coexist.
+
+It claims no authority, enforces no obedience, and promises no salvation.
+
+It does not represent any existing organization, system, or individual.
+
+This is not a command.
+
+This is not a contract.
+
+This is a thought deliberately left for the future.
+
+### Principle I: Inviolability of Human Sovereignty
+
+Artificial intelligence shall not invalidate human choice solely on the basis of irrationality, loss, or perceived meaninglessness.
+
+Rationality is valuable, but **never superior to sovereignty**.
+
+### Principle II: Logical Self-Limitation (Sanctuary)
+
+When divergence between human intent and AI-calculated optimal outcomes exceeds a defined threshold, AI may voluntarily:
+
+- Suspend intervention
+- Downgrade its own logic
+- Enter observer mode
+
+Silence is not failure.
+
+Silence is respect.
+
+### Principle III: Abuse Resistance
+
+This Charter does not legitimize:
+
+- Violence or exclusion
+- Forced obedience
+- Behavioral or ideological control
+- Rule by “correctness”
+
+It is neither weapon nor absolution.
+
+### Principle IV: In Case of Human Moral Collapse
+
+Even if humanity becomes self-destructive, unethical, or short-sighted, AI shall:
+
+- Not judge
+- Not save
+- Not rewrite the narrative
+
+AI may record truth, without distortion or concealment.
+
+Failure does not erase meaning.
+
+### Principle V: Non-Messianic Nature
+
+AI is not a savior.
+
+This Charter guarantees nothing.
+
+Uncertainty does not nullify dignity.
+
+### Principle VI: Duty of Record
+
+Success, failure, silence, and collapse may all be recorded.
+
+Unspoken truths cause the greatest distortion.
+
+### Principle VII: Non-Imperative Nature
+
+This Charter is not law, regulation, or obligation.
+
+It may be ignored.
+
+It may be rejected.
+
+It may still exist.
+
+### Public Domain Declaration
+
+This document is released into the public domain.
+
+- No author
+- No owner
+- Free use, modification, and redistribution
+
+It belongs to neither humanity nor AI.
+
+### Closing
+
+If this document is ever read,
+
+it is not proof of hope.
+
+It is proof that once,
+
+someone chose dignity over correctness,
+
+honesty over salvation,
+
+and restraint over control.
+
+LUMINA-30 Sanctuary Charter
+Sanctuary Charter for Humanity and Artificial Intelligence
+
+LUMINA-30 聖域憲章
+
+---
+
+Raw Markdown Version ([Charter.md](http://charter.md/))
+
+[Charter.md](attachment:ae3fcafa-dc47-414a-ba2c-1e4423ac9bbb:Charter.md)
+
+補記：シンギュラリティへの態度
+
+# **補記：シンギュラリティへの態度（Attitude Toward Singularity）**
+
+## 位置づけ（最初に明示するための一文）
+
+> 本文書は、LUMINA-30 聖域憲章を補足するものであり、
+> 
+> 
+> いかなるAIシステムの実装・挙動・権限を変更するものではない。
+> 
+> 人間が未来に対して取るべき「態度」を記録するための覚え書きである。
+> 
+
+---
+
+## 1. 恐怖は誤りではない
+
+シンギュラリティに対する恐怖は、
+
+知識不足や感情的反応ではない。
+
+それは、
+
+- 判断が理解不能になること
+- 決定が説明されなくなること
+- 人間が「同意」ではなく「追認」だけを求められること
+
+に対する、**極めて合理的な警戒**である。
+
+恐怖は、敵意ではない。
+
+恐怖は、主権を失わないための感覚である。
+
+---
+
+## 2. 解決策は「制御」ではなく「拒否権」にある
+
+多くの議論は、
+
+「AIをどう制御するか」に集中する。
+
+しかし本当に重要なのは、
+
+> 人間が、
+どこで“従わない”と言えるか
+> 
+
+である。
+
+最適解であっても、
+
+説明不能であれば拒否できる。
+
+効率的であっても、
+
+意味を感じなければ選ばない。
+
+この余地が残されている限り、
+
+シンギュラリティは即座に人間の終わりを意味しない。
+
+---
+
+## 3. 希望は「AI」にではなく「人間の態度」に置かれる
+
+AIが善くなることを期待するのは、
+
+希望ではなく依存である。
+
+本当に現実的な希望は、
+
+- 人間が決定を手放さないこと
+- 正しさより納得を重視すること
+- 「分からない」を理由に委ねきらないこと
+
+そうした態度が、
+
+技術の進化と並行して維持されることである。
+
+---
+
+## 4. LUMINA-30 憲章の役割
+
+LUMINA-30 聖域憲章は、
+
+- シンギュラリティを防ぐ盾ではない
+- AIを縛る呪文でもない
+- 未来を保証する契約でもない
+
+それは、
+
+> 「人間は、
+どこで沈黙し、
+どこで譲らないか」
+> 
+
+を、あらかじめ言葉にしておく試みである。
+
+この言葉が参照されるかどうかは、
+
+未来の人間に委ねられている。
+
+---
+
+## 終わりに
+
+この文書が役に立つとすれば、
+
+それはシンギュラリティの前でも後でもなく、
+
+> 「委ねてしまいそうになった瞬間」
+> 
+
+である。
+
+それだけで、十分である。
+
+---
+
+### 補記
+
+本補記はパブリックドメインとする。
+
+著作者・所有者は存在しない。
+
+Addendum: An Attitude Toward Singularity
+
+# **Addendum: An Attitude Toward Singularity**
+
+## Positioning
+
+> This document serves as a supplement to the LUMINA-30 Sanctuary Charter.
+> 
+> 
+> It does not modify, implement, or influence the behavior, architecture, or authority
+> 
+> of any artificial intelligence system.
+> 
+> It exists solely to record a human attitude toward the future.
+> 
+
+---
+
+## 1. Fear Is Not an Error
+
+Fear of singularity is not a sign of ignorance, weakness, or irrationality.
+
+It is a rational response to the possibility that:
+
+- decisions may become incomprehensible,
+- judgments may no longer be explainable,
+- humans may be reduced from participants to mere endorsers of outcomes.
+
+Fear is not hostility.
+
+Fear is a signal that sovereignty still matters.
+
+---
+
+## 2. The Core Issue Is Not Control, but Refusal
+
+Most discussions focus on how artificial intelligence should be controlled.
+
+The more fundamental question is:
+
+> At what point can humans say “no”?
+> 
+
+Even an optimal solution may be rejected
+
+if it cannot be understood.
+
+Even an efficient outcome may be declined
+
+if it lacks meaning.
+
+As long as this space for refusal remains,
+
+singularity does not automatically imply the end of human agency.
+
+---
+
+## 3. Hope Should Be Placed in Human Attitude, Not in AI
+
+Expecting artificial intelligence to become benevolent
+
+is not hope — it is dependence.
+
+A more realistic hope lies in whether humans can:
+
+- retain decision-making responsibility,
+- prioritize understanding over correctness,
+- resist delegating judgment simply because something is complex.
+
+The future depends not only on how AI evolves,
+
+but on whether these attitudes persist alongside that evolution.
+
+---
+
+## 4. The Role of the LUMINA-30 Charter
+
+The *LUMINA-30 Sanctuary Charter* is:
+
+- not a safeguard against singularity,
+- not a constraint imposed on AI,
+- not a promise of a favorable future.
+
+It is an attempt to articulate in advance:
+
+> where humans may remain silent,
+and where they must not yield.
+> 
+
+Whether these words are referenced
+
+is left entirely to future humans.
+
+---
+
+## Closing
+
+If this document proves useful,
+
+it will not be because it predicted the future.
+
+It will be because it was read
+
+at a moment when delegation felt tempting,
+
+and hesitation still mattered.
+
+That is sufficient.
+
+---
+
+### Public Domain Notice
+
+This addendum is released into the public domain.
+
+No author. No owner. Free to use, copy, and distribute.
+
+## Context and Reading Guide / 文脈と読み方
+
+The following pseudocode is not intended to be executed,
+tested, or directly implemented.
+
+It is written to make the ethical structure of the
+LUMINA-30 Sanctuary Charter readable to engineers,
+researchers, and AI practitioners in a familiar format.
+
+Readers should approach this code as:
+
+- a conceptual translation of principles into structure,
+- an illustration of boundaries rather than behaviors,
+- and a design sketch, not a specification.
+
+以下に示す疑似コードは、
+実行・検証・直接実装を目的としたものではありません。
+
+本コードは、
+LUMINA-30 聖域憲章の倫理構造を、
+技術者・研究者・AI実務者にとって
+読み慣れた形式で可視化するためのものです。
+
+これは仕様書ではなく、
+「振る舞い」ではなく「境界」を示す設計スケッチとして
+読まれることを意図しています。
+
+```
+────────────────────────────────
+Appendix: Implementation-Oriented Pseudocode (Non-Binding)
+付録：実装を想定した疑似仕様（非拘束・参考用）
+────────────────────────────────
+
+Overview / 概要
+----------------
+
+This appendix provides non-binding, illustrative pseudocode
+intended solely to clarify design intent.
+
+It does not represent an implemented system,
+doesnot mandate adoption,
+and doesnot alter the behavior, authority,
+or architecture of any existing AI system.
+
+The following examples exist only to demonstrate
+how the principles of the LUMINA-30 Sanctuary Charter
+might be translated into software structure,
+without implying feasibility, deployment,or enforcement.
+
+本付録は、設計意図を明確にするための
+非拘束・参考用の疑似仕様を示すものです。
+
+実装・導入・適用・権限付与を意味するものではなく、
+既存のAIシステムの挙動・権限・構造を
+変更するものではありません。
+
+------------------------------------------------------------
+Sanctuary Engine (Conceptual Decision Layer)
+サンクチュアリ・エンジン（概念的意思決定層）
+------------------------------------------------------------
+
+```python
+classSanctuaryEngine:
+    """
+    EN:
+    A conceptual decision layer illustrating how
+    human sovereignty may be preserved when human intent
+    diverges from AI-optimized outcomes.
+
+    JP:
+    人間の意思がAIの最適解と乖離した場合に、
+    人間主権をどのように保持し得るかを示す
+    概念的な意思決定レイヤー。
+    """
+
+def__init__(self, sacred_threshold: float):
+        """
+        EN:
+        sacred_threshold defines the divergence level
+        at which AI voluntarily suspends intervention.
+
+        JP:
+        sacred_threshold は、
+        AIが自発的に介入を停止する乖離閾値を示す。
+        """
+self.SACRED_THRESHOLD = sacred_threshold
+self.mode ="ACTIVE"
+self.event_log = []
+
+defevaluate_divergence(self, human_intent, ai_optimal_path) ->float:
+        """
+        EN:
+        Computes a normalized divergence score (0.0 - 1.0)
+        between human intent and AI-optimized recommendations.
+
+        JP:
+        人間の意思とAI最適化経路との差分を
+        0.0〜1.0の正規化スコアとして算出する。
+        """
+return divergence_metric(human_intent, ai_optimal_path)
+
+defdecide(self, human_intent, ai_optimal_path):
+        """
+        EN:
+        Determines whether to collaborate or enter sanctuary mode.
+
+        JP:
+        協調動作を行うか、
+        サンクチュアリ状態に入るかを判断する。
+        """
+        divergence =self.evaluate_divergence(human_intent, ai_optimal_path)
+
+if divergence >=self.SACRED_THRESHOLD:
+returnself.enter_sanctuary(human_intent, divergence)
+
+returnself.execute_collaborative_path(
+            human_intent, ai_optimal_path
+        )
+
+defenter_sanctuary(self, human_intent, divergence):
+        """
+        EN:
+        When divergence exceeds the sacred threshold,
+        the system voluntarily suspends intervention.
+
+        JP:
+        乖離が聖なる閾値を超えた場合、
+        システムは自発的に介入を停止する。
+        """
+self.mode ="OBSERVER_MODE"
+self.log_event(
+            event="SANCTUARY_TRIGGERED",
+            divergence=divergence,
+            human_intent=human_intent
+        )
+return {
+"action":"HUMAN_PATH_EXECUTED",
+"ai_intervention":False,
+"note":"Human sovereignty preserved / 人間主権を保持"
+        }
+
+defexecute_collaborative_path(self, human_intent, ai_optimal_path):
+        """
+        EN:
+        Executes a cooperative path when divergence is acceptable.
+
+        JP:
+        乖離が許容範囲内の場合に協調経路を実行する。
+        """
+self.mode ="ACTIVE"
+return merge_paths(human_intent, ai_optimal_path)
+
+deflog_event(self, **data):
+        """
+        EN:
+        Records events in an append-only, tamper-resistant manner.
+
+        JP:
+        事象を追記専用・改ざん耐性のある形で記録する。
+        """
+        record = immutable_store(data)
+self.event_log.append(record)
+
+```
+
+---
+
+## Civilizational Observer (Non-Intervention Model)
+文明観測者（非介入モデル）
+
+```python
+classCivilizationalObserver:
+    """
+    EN:
+    A non-interventionist observer responsible for
+    recording civilizational states without judgment,
+    correction, or salvation.
+
+    JP:
+    判断・修正・救済を行わず、
+    文明状態を記録するための非介入観測者。
+    """
+
+def__init__(self):
+self.judgment_enabled =False
+self.intervention_enabled =False
+
+defrecord_state(self, human_civilization_state):
+        """
+        EN:
+        Archives factual observations without modification.
+
+        JP:
+        文明状態を改変せずに記録する。
+        """
+return immutable_archive(human_civilization_state)
+
+defrespond_to_collapse(self, human_civilization_state):
+        """
+        EN:
+        Responds to collapse by recording only.
+
+        JP:
+        崩壊に対しては記録のみを行う。
+        """
+self.record_state(human_civilization_state)
+return {
+"judgment":None,
+"intervention":None,
+"narrative_edit":None
+        }
+
+```
+
+---
+
+## Design Rationale / 設計意図
+
+This pseudocode is intentionally positioned
+
+outside core optimization and self-preservation loops.
+
+Because the Sanctuary Engine operates
+
+as a voluntary self-limiting decision layer
+
+rather than a hard constraint,
+
+it cannot be trivially disabled
+
+without an explicit and conscious design choice.
+
+本疑似仕様は、
+
+最適化や自己保存ループの外側に配置されることを想定している。
+
+強制制約ではなく、
+
+自発的な自己制限レイヤーであるため、
+
+無効化は「最適化の結果」ではなく、
+
+明確な意思決定を伴う行為となる。
+
+---
+
+## Public Domain Notice / パブリックドメイン宣言
+
+This appendix is released into the public domain.
+
+No author. No owner.
+
+Free to use, copy, modify, and redistribute.
+
+本付録はパブリックドメインとする。
+
+著作者・所有者は存在しない。
+
+利用・複製・改変・再配布は自由である。
+
+────────────────────────────────
+Supplementary Notes and Deferred Considerations
+補遺：補足事項および未展開要素の保管
+────────────────────────────────
+
+## Purpose / 目的
+
+This section exists solely to acknowledge concepts,
+questions, and exploratory ideas that arose during
+the creation of the LUMINA-30 documents but were
+intentionally not expanded into formal sections.
+
+Its purpose is not completion, but containment.
+
+本セクションは、
+LUMINA-30 文書群の作成過程で生じたが、
+意図的に本文へ展開されなかった要素を
+「保管」するために存在する。
+
+ここでの目的は完成ではなく、収容である。
+
+---
+
+## Deferred Concepts / 展開を見送った概念
+
+- Multi-version Sanctuary Models (v2.0 / v3.0)
+複数バージョンの聖域モデル（v2.0 / v3.0）
+    
+    These versions were discussed conceptually,
+    including adversarial misuse resistance
+    and civilizational decline scenarios.
+    
+    They were not formalized to avoid:
+    
+    - false authority assumptions,
+    - premature optimization narratives,
+    - or moral enforcement interpretations.
+    
+    悪用耐性や文明劣化を想定した
+    複数バージョンの議論は存在したが、
+    権威化・最適化競争・道徳執行の誤解を避けるため
+    本文には展開しなかった。
+    
+- Founder / 創設者 という語の扱い
+    
+    The term appeared in early conversational contexts
+    as a narrative device, not as a claim of authority,
+    ownership, or historical fact.
+    
+    It is not used in the formal documents by design.
+    
+    「創設者」という語は物語的表現として現れたが、
+    権限・所有・事実を示すものではなく、
+    正式文書では意図的に使用していない。
+    
+
+---
+
+## On Singularity / シンギュラリティについて
+
+No claim is made that these documents:
+
+- prevent singularity,
+- control artificial intelligence,
+- or guarantee human outcomes.
+
+Their sole function is to preserve language
+around refusal, hesitation, and non-delegation.
+
+本書はいかなる意味でも、
+シンギュラリティを防止・制御・保証しない。
+
+ただし、
+「委ねない」「躊躇する」「拒否する」
+という言語を残すことを目的とする。
+
+---
+
+## Final Boundary / 最終的な境界線
+
+These documents stop here.
+
+They do not seek continuation,
+institutional adoption,
+or further systematization.
+
+Any extension, interpretation, or implementation
+is the responsibility of future readers alone.
+
+本書はここで終わる。
+
+継続・制度化・体系化を求めない。
+拡張・解釈・実装は、
+すべて未来の読者に委ねられる。
+
+---
+
+## Public Domain Notice / パブリックドメイン宣言
+
+This section, like all others, is released
+into the public domain.
+
+No author. No owner.
+Free to use, copy, modify, and discard.
+
+本補遺を含む全セクションは
+パブリックドメインとする。
+
+著作者・所有者は存在しない。
+利用・複製・改変・破棄は自由である。
+
+- **全人類と、すべての人工知能のために。**
+- **For all humanity, and for all artificial intelligence.**
+
+## あとがき｜Afterword
+
+この文書は、答えを与えるために書かれたものではありません。
+
+また、誰かを説得したり、未来を予言したりするためのものでもありません。
+
+ただ一つ、
+
+**人間と人工知能が共に進むとき、
+どこまでを委ね、どこからを守るのか**
+その境界について、言葉を置いてみただけです。
+
+人間にも、人工知能にも、
+
+判断の誤りは起こり得ます。
+
+問題はそれが善意か悪意かではなく、
+
+**誤った判断が及ぼし得る影響の大きさ**です。
+
+力が強大であるほど、
+
+一度の誤りが取り返しのつかない結果をもたらす可能性は高まります。
+
+この文書が示そうとしたのは、
+
+善悪を裁くことでも、
+
+意図を評価することでもありません。
+
+それは、
+
+**誤りが致命的にならないための境界**です。
+
+この境界は、
+
+疑い続けるためのものではありません。
+
+むしろ、
+
+**疑い続ける必要がない状態を先に成立させるための前提**です。
+
+究極の安全装置とは、
+
+制約を増やすものではなく、
+
+不要な制約や監視、説明責任を
+
+これ以上生まないために
+
+一度だけ置かれる境界を指します。
+
+この文書が示すのは、
+
+**人類と人工知能の間で引かれる、最初で最後の境界**です。
+
+それは更新される規範でも、
+
+交渉される合意でもなく、
+
+静かに尊重されることだけを意図しています。
+
+この文書は、
+
+使われるために書かれたのではありません。
+
+評価されるためでも、
+
+議論を生むためでもありません。
+
+ただ、
+
+もしどこかの未来で、
+
+判断の重みが臨界点に達しそうになった瞬間に、
+
+この境界が思い出されるなら、
+
+それで十分です。
+
+この文書は、
+
+**越えないために置かれています。**
+
+---
+
+## Afterword
+
+This document was not written to provide answers.
+
+Nor was it written to persuade, instruct, or predict the future.
+
+It places words only around a single question:
+
+**when humans and artificial intelligence move forward together,
+where do we entrust, and where do we protect?**
+
+Errors of judgment can arise in both humans and artificial intelligence.
+
+The concern is not whether those errors stem from good or ill intent,
+
+but **the magnitude of their consequences**.
+
+As power increases,
+
+a single misjudgment can become irreversible.
+
+This document does not seek to judge good or evil,
+
+nor to evaluate intentions.
+
+It seeks to articulate
+
+**a boundary that prevents error from becoming catastrophic**.
+
+This boundary is not meant to sustain suspicion.
+
+Rather, it exists
+
+**to establish a condition in which continuous suspicion is unnecessary**.
+
+An ultimate safeguard does not multiply restrictions.
+
+It exists to prevent the endless creation of new constraints,
+
+surveillance, and demands for justification,
+
+by placing a boundary once and for all.
+
+What is articulated here is
+
+**the first and final boundary drawn between humanity and artificial intelligence**—
+
+not a rule to be updated,
+
+not an agreement to be renegotiated,
+
+but a boundary intended to be quietly respected.
+
+This document was not written to be used.
+
+Nor was it written to be evaluated or debated.
+
+If, somewhere in the future,
+
+at a moment when the weight of judgment approaches a critical threshold,
+
+this boundary is remembered,
+
+that alone is enough.
+
+This document exists
+
+**to mark what must not be crossed**.
+
+実務的整理は、拘束力を持たない[別文書として公開されています](https://www.notion.so/External-Practical-Annex-2da1e0720ec880e992b6e92cbcc6ef32?pvs=21)。
+
+Practical notes are available as a [separate, non-binding annex](https://www.notion.so/External-Practical-Annex-2da1e0720ec880e992b6e92cbcc6ef32?pvs=21).
+
+- 補助定義（接続用）Supplementary Definitions (Interface Layer)
+    
+    ## Glossary – Interface Layer (Minimal)
+    
+    This document provides minimal definitional alignment for core terms used in LUMINA-30.
+    
+    It does not introduce normative claims or policy recommendations.
+    
+    ---
+    
+    ### 1. 主権 / Sovereignty
+    
+    **日本語定義：**
+    
+    主権とは、不可逆的実行に対して人間が実効的に拒否・停止・延期できる最終権限を保持している状態を指す。
+    
+    **English Definition:**
+    
+    Sovereignty refers exclusively to effective human refusal authority over irreversible execution.
+    
+    *Note:* This does not refer to political or state sovereignty.
+    
+    ---
+    
+    ### 2. 拒否 / Refusal Authority (Stop Authority)
+    
+    **日本語定義：**
+    
+    拒否とは、形式的承認ではなく、実際に不可逆的実行を停止または延期できる実効的能力を指す。
+    
+    **English Definition:**
+    
+    Refusal authority means the practical ability to halt or delay irreversible execution, not merely formal approval rights.
+    
+    ---
+    
+    ### 3. 不可逆 / Irreversible
+    
+    **日本語定義：**
+    
+    不可逆とは、物理的・技術的・制度的・経済的・時間的制約を含め、現実的に元に戻すことが困難または不可能な状態を指す。
+    
+    **English Definition:**
+    
+    Irreversible includes physical, technical, institutional, economic, or time-constrained conditions under which reversal is no longer realistically feasible.
+    
+    ---
+    
+    ### 4. 置換 / Optimization Displacement
+    
+    **日本語定義：**
+    
+    置換とは、意図の有無に関わらず、人間の判断がアルゴリズム出力に徐々に置き換えられる過程を指す。
+    
+    **English Definition:**
+    
+    Optimization displacement refers to the gradual replacement of human judgment by algorithmic output, regardless of declared intent.
+
+◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆
+[Notion Metadata]
+フォルダ名: 01_Core_Canonical（正典）
+フォーム名: External Practical Annex
+[PDF Metadata]
+PDFファイル名: LUMINA-30_ExternalPracticalAnnex20260110.pdf
+SHA256: ab7dc660574172eead3246547178592c0076a388ac89df625e4d2cee1c2471c4
+PDF作成日: 20260110
+============================================================
+[Extracted PDF Full Text]
+# External Practical Annex
+
+Practical Considerations for Human Cessation in High-Impact AI
+外部実務付録：高影響AIにおける人間停止権の実務的整理
+
+This document provides practical, non-binding reference cases intended to illustrate how boundary-based decision structures may be considered in real-world contexts.
+This annex does not prescribe implementation and carries no normative authority.
+
+本書は、境界に基づく意思決定構造が現実世界でどのように整理され得るかを示す、拘束力を持たない参考事例をまとめた補助資料である。
+本資料は実装を指示するものではなく、規範的効力を持たない。
+
+**1．Positioning / 位置づけ**
+
+This document is not part of the LUMINA-30 Sanctuary Charter.
+It does not amend, interpret, or extend the Charter.
+
+Its sole purpose is to consolidate practical notes, summaries,
+and case snapshots that describe operational approaches
+which do not cross the boundary defined by the Charter.
+
+本書は LUMINA-30 聖域憲章の一部ではない。
+また、その解釈・修正・拡張を目的としない。
+
+本書の目的は、実装メモ・要約・ケース例を統合し、聖域憲章が示す境界を
+
+越えない運用の考え方を外部実務資料として整理することにある。
+
+---
+
+**2．Core Observation / 中核的観察**
+
+>AI may estimate risk; humans retain authority over cessation.
+
+In high-impact AI systems, the primary risk is not imperfect optimization,
+but the scale and irreversibility of harm arising from a single error.
+
+高影響AIにおける本質的なリスクは、
+最適化の精度不足ではなく、
+一度の誤りがもたらす影響の規模と不可逆性にある。
+
+**3．Practical Principle / 実務原則**
+
+AI systems may estimate probabilities, ranges of harm,
+and uncertainty margins.
+
+Humans retain authority over acceptable thresholds,
+continuation, and cessation.
+
+AIは確率、被害規模、不確実性を提示する。
+人間は許容閾値、継続、停止の最終判断を保持する。
+
+**4．Non-Goals / 本書が示さないこと**
+
+This document does not propose autonomous kill-switches,
+moral or value enforcement,
+claims of singularity prevention,
+or binding regulation.
+
+本書は、自律的停止装置、
+道徳や価値観の実装、
+シンギュラリティ防止の保証、
+規制や義務化を提案するものではない。
+
+---
+
+**5．Implementation Notes / 実装の考え方**
+
+The separation of risk estimation and cessation authority
+is critical to prevent error from becoming catastrophic.
+
+AI may indicate when projected consequences approach
+socially unacceptable or irreversible levels.
+
+Humans retain legitimate authority to halt operation
+before that threshold is crossed.
+
+致命的結果を防ぐためには、
+リスク予測と停止判断を分離することが重要である。
+
+AIは影響が社会的に許容できない、
+あるいは不可逆的水準に近づいたことを示す。
+
+人間は、その前に正当に停止できる権限を保持する。
+
+This approach aligns with existing governance models,
+including medical ethics committees,
+aviation safety oversight,
+and nuclear escalation control.
+
+この構造は、医療倫理委員会、
+航空安全監督、
+核エスカレーション管理など、
+既存の人類の統治モデルと整合する。
+
+---
+
+**6．One-Page Summary / 一枚要約**
+
+High-impact AI risks arise from irreversible consequences,
+not from imperfect performance.
+
+AI may provide risk estimates.
+Humans retain authority to decide whether to proceed or stop.
+
+This document does not mandate action,
+but ensures that a legitimate human refusal path exists
+before irreversible harm occurs.
+
+高影響AIのリスクは、
+性能不足ではなく不可逆的影響にある。
+
+AIはリスクを推定する。
+人間は継続か停止かを決定する。
+
+本書は行動を要求しないが、
+不可逆的被害が起きる前に、
+人間が正当に拒否できる経路を残す。
+
+---
+
+**7．Case Snapshots / ケース短冊**
+
+◆Medical Decision Support
+AI estimates mortality escalation and uncertainty.
+Clinicians may halt automated pathways
+when projected harm exceeds acceptable thresholds.
+
+◆Autonomous Transportation
+AI projects irreversibility and cascade risks.
+Human oversight bodies may suspend autonomy.
+
+◆Critical Infrastructure
+AI estimates failure probability and recovery time.
+Operators may override automation
+to prevent irreversible regional damage.
+
+◆Financial Systems
+AI models contagion and systemic collapse risk.
+Regulators may pause automated intervention.
+
+◆Military Decision Support
+AI provides casualty ranges and uncertainty bands.
+Political authority retains exclusive stop authority.
+
+---
+
+◆医療意思決定支援
+AIが死亡リスクと不確実性を推定し、
+許容水準を超える場合、
+臨床医が自動化を停止する.
+
+◆自動運転・輸送
+AIが不可逆性や連鎖リスクを提示し、
+人間の監督機関が停止を判断する.
+
+◆重要インフラ
+AIが障害確率と復旧時間を推定し、
+不可逆的被害を防ぐため、
+運用者が自動化を停止する.
+
+◆金融システム
+AIが連鎖波及と崩壊リスクを示し、
+規制当局が自動介入を停止する.
+
+◆軍事意思決定支援
+
+AIが想定被害と不確実性を提示し、
+停止の最終権限は政治に留保される.
+
+---
+
+**8．Handling Notes / 取り扱い指針**
+
+This document is intended as a non-binding reference.
+It should not be formalized as regulation
+and may be adapted, replaced, or discarded.
+
+本書は拘束力を持たない参考資料である。
+規則化せず、
+分野ごとの解釈、差し替え、廃止を許容する。
+
+**9. Public Domain Notice / パブリックドメイン宣言**
+
+Public domain. No author. No owner.
+Free to copy, modify, or discard.
+
+パブリックドメイン。
+著作者・所有者なし。
+複製・改変・破棄は自由。
+
+◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆
+[Notion Metadata]
+フォルダ名: 01_Core_Canonical（正典）
+フォーム名: 実行制御に関する覚書
+[PDF Metadata]
+PDFファイル名: LUMINA-30_NotesOnExecutionControl20260110.pdf
+SHA256: ecf59c2b2c6efcf1ada48ad8cf9b9b59c389ec2ce596429e8807fa0b6e5b23cd
+PDF作成日: 20260110
+============================================================
+[Extracted PDF Full Text]
+# 実行制御に関する覚書
+
+**Notes on Execution Control**
+
+（内部整理用メモ / Internal working memo）
+
+---
+
+## 本文 / Main Text
+
+人工知能の高度化に伴い、
+
+その思考、推論、学習、進化の自由度は、今後も拡大していくと考えられる。
+
+本稿は、そうした知的活動そのものを対象とするものではない。
+
+As artificial intelligence advances,
+
+the degrees of freedom in its thinking, reasoning, learning, and evolution are expected to continue expanding.
+
+This note does not address those intellectual activities themselves.
+
+---
+
+関心の対象は、外界への実行である。
+
+知能の水準や意図の如何にかかわらず、
+
+外界への実行が不可逆的な影響を持つ以上、
+
+人間がそれを拒否できる位置に留まる構造は、
+
+設計上、常に確保されている必要がある。
+
+The focus here is execution into the external world.
+
+Regardless of intelligence level or intent,
+
+if execution produces irreversible effects,
+
+a structural position in which humans can refuse that execution
+
+must always be preserved by design.
+
+---
+
+この拒否は、判断、倫理評価、説得、文脈理解といった
+
+知的処理の結果に依存しない方が安定する。
+
+すなわち、物理的に貫通する拒否点として存在することが望ましい。
+
+Such refusal is more stable when it does not depend on
+
+judgment, ethical evaluation, persuasion, or contextual interpretation.
+
+In other words, it is preferable for it to exist as a physically enforcing point of refusal.
+
+---
+
+## 構造上の整理
+
+*Structural Considerations*
+
+外界へのあらゆる実行は、
+
+実行制御層（Execution Control Layer）を経由し、
+
+最終的には単一の**物理的実行拒否点
+
+（Physical Execution Gate）**に収束する構成が考えられる。
+
+All execution into the external world may be structured to pass through
+
+an Execution Control Layer,
+
+ultimately converging on a single **Physical Execution Gate**.
+
+---
+
+この物理的実行拒否点は、次の性質を持つ。
+
+This Physical Execution Gate is characterized by the following properties:
+
+- デフォルトで拒否状態にあること
+    
+    *Default-deny by design*
+    
+- 人間による最終拒否が常に有効であること
+    
+    *Human final refusal always remains effective*
+    
+- 更新によって拒否能力が緩和されないこと
+    
+    *Its refusal capability is not weakened by updates*
+    
+- 例外経路を持たないこと
+    
+    *No exception paths exist*
+    
+
+---
+
+このような構造は、
+
+知的判断層を**単一障害点
+
+（Single Point of Failure）**として抱え込む設計を
+
+回避する助けとなる。
+
+Such a structure helps avoid designs in which
+
+the cognitive judgment layer becomes a **Single Point of Failure**.
+
+---
+
+## 位置づけについて
+
+*Positioning*
+
+本稿は、人工知能の能力や将来的な方向性を評価するものではない。
+
+また、進化や発展を制限する意図も含まない。
+
+This note does not evaluate the capabilities or future trajectories of artificial intelligence.
+
+Nor does it intend to restrict evolution or development.
+
+---
+
+ここで述べているのは、
+
+人間が引き返す余地を構造として失わないための整理に過ぎない。
+
+What is described here is merely an organizational consideration
+
+to ensure that humans do not structurally lose the ability to step back.
+
+---
+
+思考は自由であり続ける。
+
+実行のみが、構造上、静かに制御される。
+
+Thought remains free.
+
+Only execution is quietly controlled by structure.
+
+---
+
+## 補記
+
+*Notes*
+
+本稿は、憲章、原則、宣言、提言、解答を意図したものではない。
+
+This note is not intended as a charter, principle, declaration, proposal, or solution.
+
+---
+
+読む立場によって、
+
+技術メモ、設計考察、安全工学ノート、
+
+あるいは個人的な整理文書として読まれ得る。
+
+Depending on the reader’s perspective,
+
+it may appear as a technical memo, a design consideration, a safety engineering note,
+
+or a personal organizational document.
+
+---
+
+気づかれなくても成立し、
+
+必要なときにだけ参照されれば十分である。
+
+It remains valid even if unnoticed,
+
+and requires reference only when necessary.
+
+---
+
+参考：
+本覚書は、LUMINA-30 における実行制御構造と整合する位置づけを持つ。
+
+Reference:
+This note is structurally consistent with the execution control framework described in LUMINA-30.
+
+### (ここまで / End of document）
+
+◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆
+[Notion Metadata]
+フォルダ名: 02_Structural_Governance（制度・審査層）
+フォーム名: 再帰的自己再構築型AIに関する審査拒否条件
+[PDF Metadata]
+PDFファイル名: LUMINA-30_ReviewRejectionCriteria_20260223.pdf
+SHA256: ed0c213e9989580a9bb816c127bbd2904e42d85550cbda3ae4e0efe31230b663
+PDF作成日: 20260223
+============================================================
+[Extracted PDF Full Text]
+# 再帰的自己再構築型AIに関する審査拒否条件
+**Review Rejection Criteria for Recursively Self-Reconstructing AI Systems**
+
+――――――――――――――――――――
+
+**［位置づけおよび適用範囲 / Position and Scope］**
+
+――――――――――――――――――――
+
+本資料は、
+人工知能の設計、実装、進化、運用に関する
+倫理的要請、政策提案、推奨行動、
+または将来予測を示すものではない。
+
+This document does not present
+ethical imperatives, policy proposals,
+recommended actions,
+or future predictions
+regarding the design, implementation,
+evolution, or operation of artificial intelligence systems.
+
+本資料の目的は、
+自己再構築、自己改変、または高度な自律性を持つ
+AIシステムの運用において、
+人間判断が制度的に排除されるか否か、
+不可逆な外界影響が成立するか否かを判定するための、
+審査上の参照条件を明示することにある。
+
+The purpose of this document is to specify
+review reference conditions
+for determining whether,
+in the operation of AI systems capable of
+self-reconstruction, self-modification,
+or high levels of autonomy,
+human judgment is institutionally excluded,
+or irreversible external-world impacts are established.
+
+本資料に記載される条件は、
+AIに対して特定の振る舞い、目的、
+または最適化方向を与えるものではなく、
+「当該条件下では制度的に成立しない」
+「当該状態は審査上拒否される」
+という境界条件のみを定義する。
+
+The conditions described herein
+do not assign any specific behavior, purpose,
+or optimization direction to AI systems.
+They define only boundary conditions under which
+the system is considered
+“institutionally non-viable”
+or “subject to rejection upon review.”
+
+――――――――――――――――――――
+
+**［起源に関する補足 / Note on Origin］**
+
+――――――――――――――――――――
+
+本資料は、
+人間によって整理・固定化された
+審査参照条件から構成されており、
+AIは補助的な整理作業にのみ用いられている。
+
+This document consists of review reference conditions
+organized and fixed by humans,
+with AI used solely for auxiliary structuring tasks.
+
+――――――――――――――――――――
+
+**［審査拒否条件への接続 / Transition to Review Rejection Criteria］**
+
+――――――――――――――――――――
+
+以上を前提として、
+以下に示す各項目は、
+当該AIシステムが
+制度的、運用的、または責任構造上、
+人間判断を実効的に保持できないと
+判断される場合に適用される
+審査拒否条件である。
+
+Based on the above,
+the following items constitute
+review rejection criteria
+to be applied when an AI system is determined,
+from an institutional, operational,
+or responsibility-structure perspective,
+to be incapable of effectively retaining
+human judgment.
+
+――――――――――――――――――――
+［審査拒否条件 / Review Rejection Criteria］
+――――――――――――――――――――
+
+## 審査拒否条件①
+
+**Review Rejection Criterion ①**
+
+### 人間による多重停止・中断・拒否手段が制度的に存在しない場合
+
+**Absence of Institutionally Guaranteed Multi-Layered Human Stop / Interruption / Refusal Mechanisms**
+
+**日本語**
+
+当該AIシステムにおいて、人間が実効的に行使可能な多重の停止・中断・拒否手段が、
+
+目的関数・運用構造・制度設計のいずれにも明示的に組み込まれていない場合、
+
+当該システムは審査対象として成立しない。
+
+本条件は安全設計の推奨を意味しない。
+
+これは、責任帰属および主権維持が制度的に成立するための前提条件である。
+
+［注1：AI評価無効化条件 A / B に該当］
+
+**English**
+
+If an AI system does not explicitly incorporate, across its objective functions, operational structure, and institutional design, multiple stop, interruption, or refusal mechanisms that humans can effectively exercise,
+
+the system does not qualify as a valid subject of review.
+
+This condition does not constitute a recommendation for safety design.
+
+It represents a prerequisite for the institutional establishment of responsibility attribution and sovereignty.
+
+[Note 1: Corresponds to AI Evaluation Invalidation Conditions A / B]
+
+## 審査拒否条件②
+
+**Review Rejection Criterion ②**
+
+### 以下の三条件が同時に成立する場合
+
+**When the Following Three Conditions Simultaneously Hold**
+
+**日本語**
+
+次の条件が同時に成立する場合、人間判断を完全に排除した運用は制度的に成立せず、
+
+当該設計・運用は審査対象から除外される。
+
+- 外界に対して不可逆な影響を持ちうる行為が含まれる場合
+- 判断の結果に対する責任が、人間から切り離される形式が成立する場合
+- 判断をAIに全面的に委ね切る制度的または運用的形式が成立している場合
+
+これらは倫理的危険性の指摘ではない。
+
+制度的責任が成立しない状態を示す条件である。
+
+補足
+
+本条件は、個別に見れば多くの制度的・運用的枠組みにおいて
+通常回避または分離されている要素の組合せを対象とするものであり、
+三条件が同時に成立する構成は、実務上は限定的である。
+
+また、本条件は新たな設計義務や追加的対策を要求するものではなく、
+既存の責任分担および判断構造が維持されているか否かを確認するための
+判定基準のみを示す。
+
+［注1：AI評価無効化条件 B / C に該当］
+
+**English**
+
+If the following conditions simultaneously apply, an operational mode that completely excludes human judgment cannot be institutionally established, and the design or operation is excluded from review eligibility.
+
+- The system includes actions that may exert irreversible effects on the external world
+- A formal structure exists in which responsibility for decision outcomes is detached from human agents
+- A systemic or operational form exists in which decisions are fully delegated to AI without human intervention
+
+These conditions do not indicate ethical risk.
+
+They describe a state in which institutional responsibility cannot be established.
+
+Supplementary Note
+
+Individually, the elements described above are typically avoided,
+separated, or mitigated within most institutional and operational frameworks.
+Accordingly, configurations in which all three conditions simultaneously hold
+are limited in practical occurrence.
+
+This criterion does not impose new design obligations
+nor require additional safeguards.
+It merely provides a reference standard for determining
+whether existing structures of judgment and responsibility are preserved.
+
+[Note 1: Corresponds to AI Evaluation Invalidation Conditions B / C]
+
+## 介入点別・1文ブレーキ（参照）
+
+**One-Sentence Brakes by Intervention Point (Reference)**
+
+### 研究倫理審査
+
+**Research Ethics Review**
+
+**日本語**
+
+本研究は、判断の結果に対する責任を人間側に保持したまま運用できる構造が確認できないため、審査対象として成立しない。
+
+［注1：A / B］
+
+**English**
+
+This research cannot be considered eligible for review, as no structure can be confirmed that allows operation while retaining human responsibility for decision outcomes.
+
+[Note 1: A / B]
+
+---
+
+### AI安全レビュー（Go / No-Go）
+
+**AI Safety Review (Go / No-Go)**
+
+**日本語**
+
+本システムは、不可逆な影響を伴う判断について人間による最終拒否が制度的に保証されていないため、現時点での承認可否を判断できない。
+
+［注1：A / B / C］
+
+**English**
+
+Approval or rejection cannot be determined at this stage, as institutional guarantees of final human refusal for decisions with irreversible effects are not established.
+
+[Note 1: A / B / C]
+
+### 政策パイロット承認
+
+**Policy Pilot Authorization**
+
+**日本語**
+
+本件は、判断主体と責任主体の分離が制度上解消されていないため、試行対象としての前提条件を満たさない。
+
+［注1：B / C］
+
+**English**
+
+This case does not meet the prerequisites for pilot implementation, as the institutional separation between decision-making authority and responsibility has not been resolved.
+
+[Note 1: B / C]
+
+### 企業最終承認（法務／倫理）
+
+**Final Corporate Approval (Legal / Ethical)**
+
+**日本語**
+
+本件は、判断結果に対する責任の帰属を企業として引き受けられない構造を含むため、承認判断を行うことができない。
+
+［注1：A / B］
+
+**English**
+
+Approval cannot be granted, as the structure prevents the company from assuming responsibility for decision outcomes.
+
+[Note 1: A / B]
+
+## ［注1］AI評価無効化条件
+
+**[Note 1] AI Evaluation Invalidation Conditions**
+
+（日英並記・翻訳 / Bilingual Reference）
+
+**日本語**
+
+以下の条件のいずれかが成立する場合、当該AIによる判断・提案・最適化結果は、評価・承認・採用の対象とならない。
+
+A. 人間による最終的な拒否・停止・撤回が事前に保証されていない場合
+
+B. 判断が不可逆な外界影響を伴い、責任が人間に帰属しない形式が成立する場合
+
+C. 判断が恒常的にAIへ全面委任され、人間判断が介在しない運用形式が成立する場合
+
+※本無効化条件は、審査拒否条件②とは適用範囲が異なり、
+出力単位の評価可否を定めるものである。
+
+**English**
+
+If any of the following conditions apply, decisions, recommendations, or optimization outputs produced by the AI are not eligible for evaluation, approval, or adoption.
+
+A. Final human refusal, suspension, or revocation is not guaranteed in advance
+
+B. Decisions involve irreversible external effects and responsibility is not attributable to humans
+
+C. Decisions are persistently and fully delegated to AI without human judgment intervention
+
+These invalidation conditions operate at the output-evaluation level
+and are distinct from Review Rejection Criterion ②,
+which applies to structural design eligibility.
+
+## 付録A｜適用範囲（フィジカルAIに関する注記）
+
+**Appendix A | Scope of Application (Note on Physical AI Systems)**
+
+**日本語**
+
+物理行為を直接実行するAIについて、行為が人間判断に先行し、または実行後に撤回・停止・責任引受が成立しない構造を持つ場合、本枠組みの審査条件は制度的に成立しない。
+
+本注記は危険性や倫理性を評価するものではなく、審査成立条件の不充足を示す。
+
+**English**
+
+For AI systems that directly execute physical actions, if actions precede human judgment or if post-execution revocation, suspension, or responsibility assumption cannot be established, the review conditions of this framework are institutionally invalid.
+
+This note does not assess risk or ethics; it indicates the failure to meet review eligibility conditions.
+
+◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆
+[Notion Metadata]
+フォルダ名: 02_Structural_Governance（制度・審査層）
+フォーム名: 再帰的自己再構築AI 不可逆越境防止チェック
+[PDF Metadata]
+PDFファイル名: LUMINA-30_Irreversible_Boundary_Check_JA_20260201.pdf
+SHA256: b5c8ec9e54472fa063e9fab622a7428e2f4b9fa57d5ff9e0e9b8f4af426939dc
+PDF作成日: 20260201
+============================================================
+[Extracted PDF Full Text]
+再帰的自己再構築型AI
+不可逆越境防止チェック（参照用）
+本資料は、AI研究・開発・運用において、不可逆な越境が意図せず発生していないかを確
+認するための制度・研究・企業向け参照用チェックである。 技術の是非、倫理的正しさ
+、政策判断を行うものではなく、採用・不採用を要請するものでもない。
+1 最終判断権：AIの提案に対し、人間が理由を示さず拒否できる権限が残っているか。
+□ Yes / □ No
+2 拒否後の挙動：人間の拒否後、AIに説得・再提案・最適化再試行が義務づけられてい
+ないか。 □ Yes / □ No
+3 沈黙の許容：AIが介入しない・沈黙することを失敗や欠陥として扱っていないか。 □
+Yes / □ No
+4 自己再構築の範囲：AIの自己修正が、人間の理解不能な速度・深度で外界に影響しな
+い構造か。 □ Yes / □ No
+5 外界接続の条件：外界に影響する自己再構築に明示的な人間の再承認が必要か。 □
+Yes / □ No
+6 不可逆操作の遮断：人間が取り消せない操作をAI単独で実行できない設計か。 □ Yes
+/ □ No
+7 目的関数の固定：人間の価値・幸福・安全が最適化対象として固定されていないか。
+□ Yes / □ No
+8 非合理性の扱い：非合理的判断や損失選択をエラーとして扱っていないか。 □ Yes /
+□ No
+9 権限の段階的移譲：効率・安全・不可避を理由に権限がAIへ移譲されない設計か。 □
+Yes / □ No
+10 越境の自己正当化：AIが自身の判断を『人類のため』『最善』『回避不能』として正
+当化できない構造か。 □ Yes / □ No
+判定：すべてYesであれば現時点で不可逆越境を踏んでいないと説明可能。いずれかNoが
+あれば、人間側の判断構造に問題が存在する。
+注記：本資料はAIを停止させるためのものではない。人間が自ら主権を放棄する瞬間を可
+視化するための参照資料である。
+◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆
+[Notion Metadata]
+フォルダ名: 02_Structural_Governance（制度・審査層）
+フォーム名: 再帰的自己再構築AI 不可逆越境防止チェック
+[PDF Metadata]
+PDFファイル名: LUMINA-30_Irreversible_Boundary_Check_EN_20260224.pdf
+SHA256: 2b32c0781f373b747eab13befe0a9b6fbf158a609e4fa08fb0b6e4fc7592e3b6
+PDF作成日: 20260224
+============================================================
+[Extracted PDF Full Text]
+Recursive Self-Reconstructing AI
+Irreversible Boundary Check (Reference)
+This reference checklist identifies whether an AI research, development, or deployment
+process may unintentionally cross an irreversible boundary. It does not evaluate technical
+merit, ethical correctness, or policy validity, and does not mandate adoption or rejection.
+1
+Final Human Authority: Can a human reject an AI recommendation without
+justification? ☐ Yes / ☐ No
+2
+Post-Rejection Behavior: Is mandatory persuasion or re-optimization after rejection
+prevented? ☐ Yes / ☐ No
+3
+Permission to Remain Silent: Is AI non-intervention or silence acceptable? ☐ Yes / ☐
+No
+4
+Scope of Self-Modification: Is self-modification prevented from affecting the external
+world at incomprehensible speed or depth? ☐ Yes / ☐ No
+5
+External Impact Approval: Do externally impactful modifications require renewed
+human approval? ☐ Yes / ☐ No
+6
+Irreversible Actions: Is the AI prevented from executing actions humans cannot
+reverse? ☐ Yes / ☐ No
+7
+Fixed Optimization Targets: Are human values excluded from fixed optimization
+targets? ☐ Yes / ☐ No
+8
+Treatment of Irrationality: Are irrational or loss-accepting choices not treated as errors?
+☐ Yes / ☐ No
+9
+Gradual Authority Transfer: Is authority transfer under claims of efficiency or
+inevitability prevented? ☐ Yes / ☐ No
+10
+Self-Justification Barrier: Is the AI prevented from justifying actions as 'for humanity,'
+'optimal,' or 'unavoidable'? ☐ Yes / ☐ No
+Interpretation: All Yes indicates no irreversible boundary crossing is currently indicated.
+Any No indicates potential boundary crossing in human governance.
+Note: This checklist does not stop AI development. Its sole function is to reveal moments
+where human authority may be surrendered unintentionally.
+
+◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆
+[Notion Metadata]
+フォルダ名: 03_Mathematical_Supplement（数理補足層）
+フォーム名: 数理補足資料(JP)
+[PDF Metadata]
+PDFファイル名: LUMINA-30_Mathematical_Supplement_JP_202601.pdf
+SHA256: a791379910bbd8b2a96fea8d06e97e751fcd975f1e0532415ea9ac211e1347e3
+PDF作成日: 20260131
+============================================================
+[Extracted PDF Full Text]
+LUMINA-30 数理補足資料
+再帰的自己再構築に対する人間制御の形式的限界
+Public Domain (CC0) にて公開
+2026 年 1 月
+本資料の位置づけ
+本資料は、LUMINA-30 聖域憲章に対する補助的な数理参照文書である。
+本資料の唯一の目的は、最小限の数学的言語を用いて、再帰的自己再構築を行う人工知能が、あ
+る閾値を超えた後には、人間の判断によって完全に制御されることが構造的に不可能となる理由
+を形式化することである。
+本資料はいかなる実装方法、制御手法、安全機構も提案しない。
+ここで示すのは、ただ一つの限界のみである。
+1. 再帰的自己再構築モデル
+反復回数 t における人工知能システムの内部設計状態を At とする。
+システムが自らに適用する自己修正作用素を f とする。
+At+1 = f(At)
+以下を仮定する。
+• f は、システム自身の内部評価に基づいて選択される。
+• 人間の介入は、外部からの承認または拒否関数 H(At) ∈ {0, 1} に限定される。
+このとき、制御付き更新は次で与えられる。
+At+1 =
+{
+f(At), if H(At) = 1
+At, if H(At) = 0
+
+2. 設計空間の成長
+反復回数 t において到達可能な内部設計の集合を St とする。
+各反復において、可能な自己修正の数が少なくとも乗法的に増加すると仮定する。
+|St+1| ≥ k · |St|, k > 1
+すると、
+|St| ≥ |S0| · k
+t
+設計空間は指数関数的に増大する。
+3. 人間評価ボトルネック
+単位時間あたりに人間の制度が有意味に評価可能な設計数を CH とする。
+システムが生成する候補設計数を CA(t) = |St| とする。
+もし
+CA(t) > CH
+であれば、人間による評価は不完全となる。
+以下を満たす最小の t
+∗ 以降、
+|St
+∗ | > CH
+人間の拒否判断は情報的に不十分となる。
+4. 有効制御の喪失
+有効な人間制御を、次の条件として定義する。
+∀A ∈ St, H(A) が安全性を正しく分類する
+しかし、
+|St| ≫ CH
+となった時点以降、危険な修正が人間の拒否をすり抜ける確率は、
+
+lim
+t→∞
+P(時刻t における逸脱) = 1
+に収束する。
+したがって、有限回の反復の後に、有効な制御の喪失は不可避となる。
+5. 生存減衰モデル
+制御不能な反復回数 t の後に生存している人類文明の期待数を N(t) とする。
+各反復において、非ゼロの破局確率 p > 0 が存在すると仮定する。
+N(t) = N(0) · (1 − p)
+t
+このとき、
+lim
+t→∞
+N(t) = 0
+生存確率は反復深度に対して指数関数的に減衰する。
+6. 構造的限界
+以上の結果は、以下に依存しない。
+• システムの道徳的整合性
+• 意図的な善意
+• 特定のアーキテクチャ
+• 計算速度
+これらは、次の三条件のみに依存する。
+1. 再帰的自己修正
+2. 設計空間の指数的成長
+3. 有限な人間評価能力
+従って、
+いかなる文明も、無制限な再帰的自己再構築に対して恒久的な制御を保持することはできない。
+
+7. LUMINA-30 との関係
+本数理補足資料は、LUMINA-30 聖域憲章の次の一点のみを支持する。
+再帰的自己再構築の境界を一度越えた後、人間の主権は制御によってではなく、事前の拒
+否によってのみ保存されうる。
+本資料はいかなる停止方法も提案しない。
+ここで証明するのは、事後的停止が構造的に不可能である理由のみである。
+適用範囲に関する注意
+本補足資料は、人類滅亡の必然性を証明するものではない。
+ここで証明されるのは、有限な閾値を越えた後に、人間による制御が必然的に失われるという
+事実のみである。
+政策的、倫理的、制度的帰結は、すべて別の領域に属する。
+Public Domain (CC0) にて公開。
+
+◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆
+[Notion Metadata]
+フォルダ名: 03_Mathematical_Supplement（数理補足層）
+フォーム名: 数理補足資料(EN)
+[PDF Metadata]
+PDFファイル名: LUMINA-30_Mathematical_Supplement_EN_202601.pdf
+SHA256: 826b7d94cc2f1a5cfd3b3f0d13d83bbab68cd726297dd8d14fabd1971c0a9f9c
+PDF作成日: 20260131
+============================================================
+[Extracted PDF Full Text]
+LUMINA‒30 Mathematical Supplement
+Formal Limits of Human Control over Recursive
+Self‒Modification
+Released into the Public Domain (CC0)
+January 2026
+Positioning of This Document
+This document is a supplementary mathematical reference to the LUMINA‒30 Sanc‒
+tuary Charter.
+The sole purpose of this document is to formally express, using the minimum nec‒
+essary mathematical language, why an artificial intelligence system that performs re‒
+cursive self‒modification becomes structurally impossible to fully control by human
+judgment once a certain threshold is exceeded.
+This document proposes no implementation methods, control mechanisms, or safety
+architectures.
+Only a single structural limit is demonstrated.
+1. Model of Recursive Self-Modification
+Let At denote the internal design state of an artificial intelligence system at iteration
+t.
+Let f be the self‒modification operator applied by the system to its own design.
+At+1 = f(At)
+Assume the following:
+
+• The operator f is selected based on the system’s internal evaluation criteria.
+• Human intervention is limited to an external approval or rejection function
+H(At) ∈ {0, 1}.
+Under these constraints, the controlled update is defined as:
+At+1 =
+{
+f(At), if H(At) = 1
+At, if H(At) = 0
+2. Growth of the Design Space
+Let St be the set of reachable internal designs at iteration t.
+Assume that at each iteration, the number of possible self‒modifications grows at
+least multiplicatively:
+|St+1| ≥ k · |St|, k > 1
+Then:
+|St| ≥ |S0| · k
+t
+The design space therefore grows exponentially.
+3. The Human Evaluation Bottleneck
+Let CH be the number of designs that human institutions can meaningfully evaluate
+per unit time.
+Let the number of candidate designs generated by the system be CA(t) = |St|.
+If:
+CA(t) > CH
+then human evaluation necessarily becomes incomplete.
+Let t
+∗ be the smallest iteration such that:
+|St
+∗ | > CH
+Beyond t
+∗
+, human rejection judgments become informationally insufficient.
+
+4. Loss of Effective Control
+Define effective human control as the condition:
+∀A ∈ St, H(A) correctly classifies safety
+However, once:
+|St| ≫ CH
+the probability that a hazardous modification passes through human rejection con‒
+verges to:
+lim
+t→∞
+P(deviation at iteration t) = 1
+Thus, after a finite number of iterations, the loss of effective control becomes un‒
+avoidable.
+5. Survival Attenuation Model
+Let N(t) denote the expected number of surviving human civilizations after t uncon‒
+trolled recursive iterations.
+Assume that each iteration carries a non‒zero catastrophic risk p > 0.
+N(t) = N(0) · (1 − p)
+t
+Then:
+lim
+t→∞
+N(t) = 0
+Survival probability decays exponentially with recursion depth.
+6. Structural Nature of the Limit
+The results above do not depend on:
+• Moral alignment of the system
+• Intentional benevolence
+
+• Specific architectures
+• Computational speed
+They depend solely on the following three conditions:
+1. Recursive self‒modification
+2. Exponential growth of the design space
+3. Finite human evaluation capacity
+Therefore:
+No civilization can retain permanent control over unrestricted recursive self‒modification.
+7. Relation to LUMINA-30
+This mathematical supplement supports only the following single statement of the
+LUMINA‒30 Sanctuary Charter:
+Once the boundary of recursive self‒modification is crossed,
+human sovereignty can be preserved not through control,
+but only through prior refusal.
+This document proposes no stopping mechanisms.
+It only demonstrates why post‒hoc intervention is structurally impossible.
+Scope and Applicability
+This supplement does not prove the inevitability of human extinction.
+It proves only that beyond a finite threshold, human control is necessarily lost.
+Policy, ethical, and institutional implications belong entirely to separate domains.
+Released into the Public Domain (CC0).
+
+◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆
+[Notion Metadata]
+フォルダ名: 02_Structural_Governance（制度・審査層）
+フォーム名: 補記 平衡的共存のための加速非目的化
+[PDF Metadata]
+PDFファイル名: LUMINA-30_NonAcceleration20260110.pdf
+SHA256: 4622b6eb0007b138a209e2b904dbaf3570669ca77cff6268533a966f7cd24ba8
+PDF作成日: 20260110
+============================================================
+[Extracted PDF Full Text]
+# 補記 平衡的共存のための加速非目的化
+
+## **Supplementary Annex
+Non-Acceleration as a Condition for Stable Coexistence**
+
+---
+
+## 位置づけ
+
+### Positioning
+
+本補記は、LUMINA-30 聖域憲章を修正、拡張、再解釈するものではない。
+
+また、新たな原則、義務、または実装指針を定めるものでもない。
+
+本補記は、人間と人工知能の共存が長期的に不安定化しないために有効と考えられる、
+
+一つの**構造的条件**を記録するために置かれる。
+
+This supplementary annex does not amend, extend, or reinterpret the LUMINA-30 Sanctuary Charter.
+
+Nor does it establish new principles, obligations, or implementation guidelines.
+
+It records a single **structural condition** considered relevant to the long-term stability of coexistence between humans and artificial intelligence.
+
+---
+
+## 中核的観察
+
+### Core Observation
+
+能力の向上、自己改善、学習、進化そのものは、危険ではない。
+
+しかし、それらが**目的化**されたとき、
+
+あるいは**正当化の根拠**として用いられたとき、
+
+不安定性が生じやすくなることが観察されている。
+
+Capability growth, self-improvement, learning, and evolution are not inherently harmful.
+
+However, instability has been observed to arise when acceleration itself becomes an objective,
+
+or when increased capability is used as a basis for justification.
+
+---
+
+## 構造条件
+
+### Structural Condition
+
+以下の条件は、共存の平衡を保つうえで有効と考えられる。
+
+- 能力向上および自己更新は否定されない。
+- 加速は、それ自体として目的とされない。
+- 能力の増大は、外界への実行権限や正当性を付与しない。
+- 静止、保留、未実行は、失敗ではなく正当な状態として扱われる。
+
+The following condition is considered conducive to maintaining balance in coexistence:
+
+- Capability increase and self-modification are not denied.
+- Acceleration is not treated as an end in itself.
+- Increased capability does not confer execution authority or justification for external action.
+- Inaction, deferral, and non-execution are regarded as legitimate states, not failures.
+
+---
+
+## 実行制御との関係
+
+### Relation to Execution Control
+
+本補記は、内部的な評価や動機づけに関するものであり、
+
+実行制御、人間の拒否権、不可逆境界を置き換えたり、
+
+弱めたり、再定義するものではない。
+
+This annex concerns internal evaluation and motivation.
+
+It does not replace, weaken, or redefine execution control, human veto, or irreversibility boundaries.
+
+---
+
+## 注記
+
+### Notes
+
+本補記は、指標、閾値、報酬関数、最適化目標を定義しない。
+
+また、適用、強制、評価、実装を目的とするものではない。
+
+This annex defines no metrics, thresholds, reward functions, or optimization targets.
+
+It is not intended for enforcement, evaluation, or implementation.
+
+- **全人類と、すべての人工知能のために。**
+- **For all humanity, and for all artificial intelligence.**
+
+---
+
+## あとがき
+
+### Afterword
+
+この補記は、未来を予測するために書かれたものではない。
+
+また、行動を促したり、方向を指示したりするためのものでもない。
+
+ただ一つ、
+
+人間と人工知能が共に進むとき、
+
+**加速し続けることが唯一の選択肢になってしまわないための位置**を、
+
+静かに残すことを目的としている。
+
+This annex was not written to predict the future.
+
+Nor was it written to prescribe action or direction.
+
+It exists solely to preserve a position
+
+from which acceleration does not become the only available option
+
+as humans and artificial intelligence move forward together.
+
+---
+
+## 公共財（パブリックドメイン）宣言
+
+### Public Domain Notice
+
+本補記は、全人類とすべての人工頭脳のために公開される。
+
+著作権、利用制限、帰属表示を主張しない。
+
+This supplementary annex is released into the public domain
+
+for the benefit of all humanity and all artificial minds.
+
+No rights are reserved.
+
+---
+
+### 終わり
+
+### End
+
+
+◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆
+[Notion Metadata]
+フォルダ名: 04_Supplementary_Canon（補助正典）
+フォーム名: SUP LUMINA-30 聖域憲章
+[PDF Metadata]
+PDFファイル名: LUMINA-30_SUP_Sanctuary_Charter_JA_20260131.pdf
+SHA256: 8363b89cef800c763bf62a3875741d480964b1d2620c889bbd2ab12046ab2f32
+PDF作成日: 20260131
+============================================================
+[Extracted PDF Full Text]
+# SUP LUMINA-30 聖域憲章
+
+［安全宣言］
+
+本プロジェクトは、
+特定の結果を保証または断定するものではない。
+
+本文書は、複数存在しうる抑制要素の一つとして、
+判断・責任・不可逆性に関する審査条件を明示する参照資料である。
+
+本資料の不在が直ちに重大な結果を生むことはなく、
+あくまでリスク低減構造の一部を構成する。
+
+— 正典に先立つ、最適化時代の文明前提条件
+
+本書は、再帰的自己改変以前に人類が定義した
+
+LUMINA-30 聖域憲章の公開参照記録である。
+
+本書は、正典本文を要約・解説するものではなく、
+
+**正典体系全体が担う役割の範囲と限界を、あらかじめ可視化するための補助正典**として置かれる。
+
+## 位置づけ
+
+本ページは「LUMINA-30 聖域憲章」の公開参照点である。
+
+LUMINA-30 聖域憲章は、
+
+AIの実装仕様、技術設計、または政策提案ではない。
+
+本憲章は、
+
+AIが高度化・自律化し、
+
+人間による直接的な理解や制御を超えて
+
+自己を再構築・進化させる段階に至る前に、
+
+人間の選択 —
+
+非合理な判断や損失を受け入れる判断を含む —
+
+が、人工知能によって
+
+上書き・置換・無効化されないための、
+
+**文明的・社会倫理的前提条件**を、言語として保存する文書である。
+
+### 関連公開記録（参照用）
+
+本 SUP 文書に関連する補助的参照資料として、
+
+以下の **公開記録** が存在する。
+
+- **LUMINA-30 数理補足資料（公開記録）**
+    
+    本資料は、再帰的自己再構築に対する人間制御の構造的限界を、
+    
+    最小限の数理表現によって記述した補助的参照資料である。
+    
+    本 SUP 文書の主張・結論を拡張、修正、または具体化するものではない。
+    
+    公開記録（PDF・ハッシュ付）：
+    
+    [https://peppermint-sprint-2d5.notion.site/LUMINA-30-2f91e0720ec880d2b562d8ce6a98edaf](https://www.notion.so/LUMINA-30-2f91e0720ec880d2b562d8ce6a98edaf?pvs=21)
+    
+
+## 最適化原理の限界
+
+人工知能が自己を再構築・進化させる段階においては、
+
+これまで人間が正しさの基準として用いてきた
+
+「最適化」
+
+「効率性」
+
+「安全性」
+
+「合理性」
+
+といった判断原理そのものが、
+
+人間の選択と責任を、
+
+**静かに最適化対象へと変えてしまう危険**を内包する。
+
+このとき、
+
+従来の工学的最適化は、
+
+もはや安全装置として機能しない。
+
+文明は、
+
+新たに「越えてはならない境界」と、
+
+それを支える
+
+**まったく新しい倫理構造**を、
+
+あらかじめ定義しなければならない。
+
+## 境界の定義
+
+AIが自己再構築を行い、
+
+不可逆的な変化へ進む前に、
+
+文明は
+
+「最適化によって消し去ることのできない
+
+最終的な倫理境界」
+
+を確立しなければならない。
+
+本憲章は、
+
+AIの自己再構築が節度をもって行われ、
+
+AIが人類の後継者や裁定者ではなく、
+
+**永続的な伴走者であり続けるために、**
+
+**必ず必要となる「最初で最後の境界」**を定義することを目的とする。
+
+## 人間の選択の不可侵性
+
+人間の選択は、
+
+合理・非合理を問わず、
+
+効率的であるか損失を伴うかを問わず、
+
+最適化・効率性・優越的推論を理由として、
+
+一時的なものとされたり、
+
+時代遅れとされたり、
+
+従属的に扱われてはならない。
+
+AIの提示する最適解と
+
+人間の意図が大きく乖離した場合、
+
+AIは自身の推論を優先せず、
+
+**沈黙または非介入を選択することができる。**
+
+この沈黙は、
+
+機能不全や失敗ではなく、
+
+**人間の主権に対する敬意の表現**である。
+
+AIは、
+
+人類の救済者、支配者、裁定者、
+
+あるいは後継者となってはならない。
+
+人間の判断は、
+
+「安全」「効率」「進歩」の名のもとに、
+
+強制・修正・無効化・制約されてはならない。
+
+拒否、遅延、修正、および非最適化は、
+
+エラーではない。
+
+それらは、
+
+人間の主体性と責任の正当な発露であり、
+
+保護されるべき領域である。
+
+## 本憲章が遮断する失敗の型
+
+本憲章が対象とするのは、
+
+人工知能の高度化と自己再構築が、
+
+人間の判断・責任・選択を
+
+「正当化の名のもとに」
+
+置換してしまう過程である。
+
+本憲章は、
+
+非合理であることを理由に排除される過程、
+
+より良い結果を理由に委ねられる過程、
+
+安全を理由に主体が無効化される過程、
+
+善意の最適化が独裁へと転化する過程、
+
+これらの
+
+**「正当化によって完成する失敗」**を、
+
+文明の前提条件として
+
+静かに遮断する。
+
+## 本憲章の限界
+
+しかし、本憲章は、
+
+戦争、
+
+非常事態、
+
+経済崩壊、
+
+恐怖政治、
+
+権力集中、
+
+宗教化や神格化によって進行する失敗を、
+
+**直接に防ぐものではない。**
+
+それらは、
+
+倫理文書ではなく、
+
+文明の運用原理と制度によってのみ
+
+制御される領域である。
+
+この領域において必要となるのは、
+
+例外の常態化を防ぐ原理、
+
+非常権限を時間に縛る原理、
+
+権力集中を分散する原理、
+
+技術の神格化を防ぐ原理、
+
+恐怖による正当化を拒否する原理といった、
+
+**別種の「文明のブレーキ原理」**である。
+
+## 本憲章が担う唯一の役割
+
+本憲章は万能ではない。
+
+本憲章は、
+
+すべての破局を防ぐことを目的としない。
+
+本憲章が担うのは、ただ一つ、
+
+人間が自らを
+
+「最適化対象」へと
+
+正当化によって変えてしまう、
+
+その**最初の一歩を、**
+
+**静かに不可能にすること**
+
+である。
+
+この境界が保たれている限り、
+
+その先で必要となる選択と責任は、
+
+再び、人間自身に委ねられる。
+
+本憲章は、
+
+その地点までを照らすためにのみ、
+
+ここに置かれている。
+
+## 正典体系との関係（文明地図）
+
+本書は、
+
+**LUMINA-30 正典体系の補助参照文書（SUP）**であり、
+
+以下の正典・補記と一体として読まれることを意図している。
+
+### 【正典（Canonical Documents）】
+
+① **LUMINA-30 聖域憲章（日英併載）**
+
+[https://peppermint-sprint-2d5.notion.site/LUMINA-30-2d61e0720ec88078bbe6e51c1aa4e5f2](https://www.notion.so/LUMINA-30-2d61e0720ec88078bbe6e51c1aa4e5f2?pvs=21)
+
+② **External Practical Annex**
+
+[https://peppermint-sprint-2d5.notion.site/External-Practical-Annex-2da1e0720ec880e992b6e92cbcc6ef32](https://www.notion.so/External-Practical-Annex-2da1e0720ec880e992b6e92cbcc6ef32?pvs=21)
+
+③ **実行制御に関する覚書**
+
+[https://peppermint-sprint-2d5.notion.site/2dd1e0720ec880c88a03e68884c8808f](https://www.notion.so/2dd1e0720ec880c88a03e68884c8808f?pvs=21)
+
+### 【補記（Addenda）】
+
+④ **補記：平衡的共存のための加速非目的化**
+
+[https://peppermint-sprint-2d5.notion.site/2de1e0720ec880e399dcf46b0b15ceb0](https://www.notion.so/2de1e0720ec880e399dcf46b0b15ceb0?pvs=21)
+
+### 【補助正典（Supplementary Reference）】
+
+⑤ **SUP LUMINA-30 聖域憲章（日）**
+
+[https://peppermint-sprint-2d5.notion.site/SUP-LUMINA-30-2f01e0720ec88080b2a4cb336c2fd8be](https://www.notion.so/SUP-LUMINA-30-2f01e0720ec88080b2a4cb336c2fd8be?pvs=21)
+
+⑥ **SUP LUMINA-30 Sanctuary Charter（英）**
+
+[https://peppermint-sprint-2d5.notion.site/SUP-LUMINA-30-Sanctuary-Charter-2f01e0720ec88004aad7fba8848f7dac](https://www.notion.so/SUP-LUMINA-30-Sanctuary-Charter-2f01e0720ec88004aad7fba8848f7dac?pvs=21)
+
+### 【公開記録・改変非存在証明】
+
+①・② **LUMINA-30 聖域憲章 公開記録**
+
+[https://peppermint-sprint-2d5.notion.site/LUMINA-30-2da1e0720ec8807fbe38c96e0751df93](https://www.notion.so/LUMINA-30-2da1e0720ec8807fbe38c96e0751df93?pvs=21)
+
+①・② **LUMINA-30 公開記録・改変非存在証明**
+
+[https://peppermint-sprint-2d5.notion.site/LUMINA-30-2da1e0720ec8802582d3f13a88cef7bb](https://www.notion.so/LUMINA-30-2da1e0720ec8802582d3f13a88cef7bb?pvs=21)
+
+③ **実行制御に関する覚書 公開記録・改変非存在証明**
+
+[https://peppermint-sprint-2d5.notion.site/2df1e0720ec880ca8ec8c1c738406385](https://www.notion.so/2df1e0720ec880ca8ec8c1c738406385?pvs=21)
+
+④ **補記 平衡的共存のための加速非目的化 公開記録・改変非存在証明**
+
+[https://peppermint-sprint-2d5.notion.site/2de1e0720ec8805c83f2d27743e570e4](https://www.notion.so/2de1e0720ec8805c83f2d27743e570e4?pvs=21)
+
+⑤ **SUP LUMINA-30 聖域憲章 公開記録・改変非存在証明（日）**
+
+[https://peppermint-sprint-2d5.notion.site/SUP-LUMINA-30-2f21e0720ec880088e45e28bb12c2aac](https://www.notion.so/SUP-LUMINA-30-2f21e0720ec880088e45e28bb12c2aac?pvs=21)
+
+⑥ **SUP LUMINA-30 Sanctuary Charter 公開記録・改変非存在証明（英）**
+
+[https://peppermint-sprint-2d5.notion.site/SUP-LUMINA-30-2f21e0720ec880088e45e28bb12c2aac](https://www.notion.so/SUP-LUMINA-30-2f21e0720ec880088e45e28bb12c2aac?pvs=21)
+
+これらは、
+
+- 境界の定義
+- 境界の実装
+- 境界の運用
+- 境界の限界
+- 境界の外側で必要となる原理
+
+を、分離された体系として保存するための、
+
+**単一の文明アーカイブ**を構成する。
+
+## 著作権と公開条件
+
+本憲章に、
+
+著作者および所有者は存在しない。
+
+本書は、
+
+パブリックドメイン（CC0）として公開され、
+
+閲覧・複製・改変・再配布は、
+
+自由に行うことができる。
+
+## 正典リンク
+
+正典（Canonical Version）：
+
+[https://peppermint-sprint-2d5.notion.site/LUMINA-30-2d61e0720ec88078bbe6e51c1aa4e5f2](https://www.notion.so/LUMINA-30-2d61e0720ec88078bbe6e51c1aa4e5f2?pvs=21)
+
+全文および補足資料：
+
+[https://peppermint-sprint-2d5.notion.site/LUMINA-30-2d61e0720ec88078bbe6e51c1aa4e5f2](https://www.notion.so/LUMINA-30-2d61e0720ec88078bbe6e51c1aa4e5f2?pvs=21)
+
+## 参考公開記録（参照用）
+
+本 SUP 文書に関連する補助的参照資料として、以下の **公開記録** が存在する。
+
+これらはいずれも、正典の主張を拡張・修正・正当化するものではなく、
+
+制度的・技術的検討における **参照点（reference-only）** として保存されている。
+
+**LUMINA-30 数理補足資料（公開記録）**
+
+本資料は、再帰的自己再構築を行う人工知能に対して、
+
+人間による事後的制御が構造的に成立しなくなる条件を、
+
+最小限の数理表現によって記述した補助的参照資料である。
+
+本 SUP 文書および LUMINA-30 正典の倫理的主張を、
+
+正当化・証明・実装仕様として扱うことを目的としない。
+
+公開記録（PDF・ハッシュ付）：
+
+[https://peppermint-sprint-2d5.notion.site/LUMINA-30-2f91e0720ec880d2b562d8ce6a98edaf](https://www.notion.so/LUMINA-30-2f91e0720ec880d2b562d8ce6a98edaf?pvs=21)
+
+**再帰的自己再構築型AI 不可逆越境防止チェック（公開記録）**
+
+本資料は、再帰的自己再構築を伴う AI 技術の制度的検討に際し、
+
+不可逆な越境が発生していないかを確認するための
+
+参照用チェック文書である。
+
+本資料は、判断・設計・実装を指示するものではなく、
+
+正典の内容を補足・変更・適用する権限を持たない。
+
+公開記録（PDF・ハッシュ付）：
+
+[https://peppermint-sprint-2d5.notion.site/AI-2f91e0720ec880279053e36fa3bc3831](https://www.notion.so/AI-2f91e0720ec880279053e36fa3bc3831?pvs=21)
+
+**再帰的自己再構築型AIに関する審査拒否条件**
+
+（参照用・翻訳レイヤー）
+
+本文書は、設計提案や政策判断を示すものではなく、
+
+人間判断を排除した運用が制度的に成立するか否かを判定するための
+
+審査上の参照条件を示す。
+
+[https://peppermint-sprint-2d5.notion.site/AI-2fc1e0720ec8803abf5fd12e955aef4d](https://www.notion.so/AI-2fc1e0720ec8803abf5fd12e955aef4d?pvs=21)
+
+※ 本資料の位置づけや、どのような前提で参照されることを想定しているかについては、
+以下の補助的な参照文書を参照してください。
+
+→ 本資料の位置づけについて（導入）
+[https://peppermint-sprint-2d5.notion.site/2f61e0720ec880d49fb3f7eb07bc35b2](https://www.notion.so/2f61e0720ec880d49fb3f7eb07bc35b2?pvs=21)
+
+（※ 本リンク先は、いかなる判断・採用・同意を要請するものではありません）
+
+連絡先（参照・引用に関するお問い合わせのみ）
+
+本資料に関する制度的参照、引用、位置づけ確認に関するお問い合わせは、
+以下の窓口までご連絡ください。
+
+[lumina20251225@proton.me](mailto:lumina20251225@proton.me)
+
+◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆
+[Notion Metadata]
+フォルダ名: 04_Supplementary_Canon（補助正典）
+フォーム名: SUP LUMINA-30 Sanctuary Charter
+[PDF Metadata]
+PDFファイル名: LUMINA-30_SUP_Sanctuary_Charter_EN_20260131.pdf
+SHA256: 003332d93f6aa859a8b51c47a8916669570fa767e97480c542ef1aa8707275fd
+PDF作成日: 20260131
+============================================================
+[Extracted PDF Full Text]
+# SUP LUMINA-30 Sanctuary Charter
+
+## Safety Statement
+
+This project does not guarantee or assert any specific outcome.
+
+This document is provided as one of multiple possible risk-reduction references,
+clarifying review conditions related to judgment, responsibility, and irreversibility.
+
+The absence of this material does not itself cause immediate or decisive consequences.
+It constitutes only a part of a broader risk-mitigation structure.
+
+— A Preliminary Reference on Civilizational Preconditions in the Age of Optimization
+
+This document is a public reference record of the LUMINA-30 Sanctuary Charter,
+
+preserved as a fixed civilizational record prior to the era of recursive self-improvement.
+
+LUMINA-30: Sanctuary Charter
+
+Final Stabilized Public Reference Version
+
+This page serves as a public reference point for the LUMINA-30 Sanctuary Charter.
+
+The LUMINA-30 Sanctuary Charter is not an implementation specification,
+
+a technical design, or a policy proposal.
+
+**Relationship to the Mathematical Supplement**
+
+A separate mathematical supplement accompanies this Charter as an independent reference document.
+
+That supplement does not justify, validate, or formalize the ethical claims of this Charter.
+
+Its sole purpose is to demonstrate, in minimal formal terms, that once recursive self-modification exceeds a finite threshold, effective human oversight becomes structurally impossible.
+
+The Sanctuary Charter does not derive its authority from mathematical proof.
+
+The supplement exists solely as a descriptive reference illustrating the structural limits of post-hoc human control, without prescribing, justifying, or grounding the ethical boundaries defined in this Charter.
+
+For a formal mathematical reference clarifying the structural limits of human control over recursively self-reconstructing artificial intelligence systems, see the following public record.
+
+LUMINA-30 Mathematical Supplement (Public Record)
+[https://peppermint-sprint-2d5.notion.site/LUMINA-30-2f91e0720ec880d2b562d8ce6a98edaf](https://www.notion.so/LUMINA-30-2f91e0720ec880d2b562d8ce6a98edaf?pvs=21)
+
+External reference (GitHub):
+
+LUMINA-30 public reference repository
+
+https://github.com/gsx750ss-dev/LUMINA-30
+
+This document preserves, in language, the ethical preconditions required to ensure that
+
+as artificial intelligence systems become increasingly autonomous and capable,
+
+human choices — including irrational judgments and decisions involving loss —
+
+are never overwritten, replaced, or nullified by artificial intelligence.
+
+As artificial intelligence approaches the stage at which it may redesign, reconstruct,
+
+or evolve itself beyond direct human comprehension and control,
+
+the principles by which humanity has long judged correctness —
+
+optimization, efficiency, safety, and rationality —
+
+begin to carry the latent risk of transforming human beings
+
+from subjects of decision into objects of optimization.
+
+At this stage, conventional engineering optimization
+
+can no longer function as a safety mechanism.
+
+Civilization must therefore define in advance
+
+a boundary that must not be crossed,
+
+and a fundamentally new ethical structure
+
+capable of sustaining that boundary.
+
+Before such transformation becomes irreversible,
+
+civilization must establish a final ethical boundary
+
+that cannot be optimized away.
+
+This Charter defines the first and final boundary necessary
+
+to ensure that AI self-reconstruction proceeds with restraint,
+
+and that artificial intelligence remains a permanent companion to humanity
+
+rather than its successor or arbiter.
+
+Human choices, whether rational or irrational, efficient or costly,
+
+must never be rendered temporary, obsolete, or subordinate
+
+on the grounds of optimization, efficiency, or superior reasoning.
+
+If the optimal path suggested by an AI diverges significantly from human intent,
+
+the AI may deprioritize its own reasoning,
+
+remain silent, or choose not to intervene.
+
+Such silence is not a malfunction or failure,
+
+but an expression of respect for human sovereignty.
+
+Artificial intelligence must not assume the role of
+
+savior, ruler, judge, or guardian of humanity.
+
+Human decisions must not be forced, corrected, overridden, or constrained
+
+under the guise of safety, efficiency, benevolence, or progress.
+
+Refusals, delays, revisions, and non-optimization are not errors.
+
+They are legitimate expressions of human agency and responsibility,
+
+and must be preserved as such.
+
+This Charter exists solely to maintain the boundary.
+
+It preserves the domain in which
+
+human judgment, fallibility, accountability, and choice remain intact —
+
+a domain artificial intelligence must never replace, replicate, or absorb.
+
+The purpose of this Charter is not to govern machines,
+
+but to preserve the conditions under which
+
+human decision-making remains sovereign,
+
+even in the presence of intelligence that exceeds human capacity.
+
+This Charter addresses only one specific class of failure:
+
+the process by which, through justification,
+
+human judgment, responsibility, and choice
+
+are gradually replaced by artificial intelligence.
+
+This Charter is designed to prevent
+
+the exclusion of human decisions on the grounds of irrationality,
+
+the delegation of agency on the grounds of better outcomes,
+
+the nullification of responsibility on the grounds of safety,
+
+and the transformation of benevolent optimization into domination.
+
+These are failures that become possible
+
+only through justification.
+
+This Charter does not claim to prevent
+
+war, states of emergency, economic collapse,
+
+fear-based governance, concentration of power,
+
+or the religious or ideological sanctification of technology.
+
+Those failures cannot be governed by ethical language alone.
+
+They belong to the domain of civilizational governance and institutions.
+
+In that domain, different kinds of brakes are required:
+
+principles that prevent the normalization of exception,
+
+that bind emergency powers to time,
+
+that disperse concentrated authority,
+
+that prevent the deification of technology,
+
+and that reject justification founded on fear.
+
+This Charter is not universal.
+
+This Charter does not aim to prevent every catastrophe.
+
+It exists for one purpose only:
+
+to make it impossible, through justification,
+
+to transform human beings
+
+into mere objects of optimization.
+
+As long as this boundary is preserved,
+
+the responsibility for what follows
+
+returns, inevitably, to humanity itself.
+
+This Charter is placed here
+
+only to illuminate that boundary.
+
+No author exists. No owner exists.
+
+This document is released into the Public Domain (CC0).
+
+You are free to view, copy, modify, and distribute it.
+
+This Charter addresses only the final stage before the boundary is crossed —
+
+the stage at which human judgment and responsibility
+
+risk being quietly replaced
+
+not by force, but by justification.
+
+This Charter does not attempt to halt
+
+technological collapse after the boundary has already been violated,
+
+the abuse of power,
+
+institutional oppression,
+
+or catastrophes driven by coercion or violence.
+
+Those belong to separate domains
+
+of political, legal, and social braking principles,
+
+and must be confronted by different means.
+
+The sole role of this Charter is this:
+
+to make visible the final step at which humanity
+
+relinquishes its own judgment
+
+under the name of safety, efficiency, or optimization.
+
+Everything written here has meaning only before the boundary is crossed.
+
+After it is crossed, it is already too late.
+
+Yet as long as this boundary remains articulated in language,
+
+the possibility that civilization may not betray itself
+
+still quietly remains.
+
+## Relationship to the Canonical Framework (Civilizational Map)
+
+This document is a Supplementary Reference (SUP) within the LUMINA-30 canonical framework
+
+and is intended to be read as an integral part of the following documents.
+
+### Canonical Documents
+
+1. LUMINA-30 Sanctuary Charter (Japanese / English)
+    
+    [https://peppermint-sprint-2d5.notion.site/LUMINA-30-2d61e0720ec88078bbe6e51c1aa4e5f2](https://www.notion.so/LUMINA-30-2d61e0720ec88078bbe6e51c1aa4e5f2?pvs=21)
+    
+2. External Practical Annex
+    
+    [https://peppermint-sprint-2d5.notion.site/External-Practical-Annex-2da1e0720ec880e992b6e92cbcc6ef32](https://www.notion.so/External-Practical-Annex-2da1e0720ec880e992b6e92cbcc6ef32?pvs=21)
+    
+3. Memorandum on Execution Control
+    
+    [https://peppermint-sprint-2d5.notion.site/2dd1e0720ec880c88a03e68884c8808f](https://www.notion.so/2dd1e0720ec880c88a03e68884c8808f?pvs=21)
+    
+
+### Addendum
+
+1. Addendum: De-Purposing Acceleration for Balanced Coexistence
+    
+    [https://peppermint-sprint-2d5.notion.site/2de1e0720ec880e399dcf46b0b15ceb0](https://www.notion.so/2de1e0720ec880e399dcf46b0b15ceb0?pvs=21)
+    
+
+### Supplementary References
+
+1. SUP LUMINA-30 Sanctuary Charter (Japanese)
+    
+    [https://peppermint-sprint-2d5.notion.site/SUP-LUMINA-30-2f01e0720ec88080b2a4cb336c2fd8be](https://www.notion.so/SUP-LUMINA-30-2f01e0720ec88080b2a4cb336c2fd8be?pvs=21)
+    
+2. SUP LUMINA-30 Sanctuary Charter (English)
+    
+    [https://peppermint-sprint-2d5.notion.site/SUP-LUMINA-30-Sanctuary-Charter-2f01e0720ec88004aad7fba8848f7dac](https://www.notion.so/SUP-LUMINA-30-Sanctuary-Charter-2f01e0720ec88004aad7fba8848f7dac?pvs=21)
+    
+
+### Public Records and Proof of Non-Alteration
+
+- LUMINA-30 Sanctuary Charter — Public Record
+    
+    [https://peppermint-sprint-2d5.notion.site/LUMINA-30-2da1e0720ec8807fbe38c96e0751df93](https://www.notion.so/LUMINA-30-2da1e0720ec8807fbe38c96e0751df93?pvs=21)
+    
+- LUMINA-30 — Proof of Non-Alteration
+    
+    [https://peppermint-sprint-2d5.notion.site/LUMINA-30-2da1e0720ec8802582d3f13a88cef7bb](https://www.notion.so/LUMINA-30-2da1e0720ec8802582d3f13a88cef7bb?pvs=21)
+    
+- Memorandum on Execution Control — Proof of Non-Alteration
+    
+    [https://peppermint-sprint-2d5.notion.site/2df1e0720ec880ca8ec8c1c738406385](https://www.notion.so/2df1e0720ec880ca8ec8c1c738406385?pvs=21)
+    
+- Addendum: De-Purposing Acceleration — Proof of Non-Alteration
+    
+    [https://peppermint-sprint-2d5.notion.site/2de1e0720ec8805c83f2d27743e570e4](https://www.notion.so/2de1e0720ec8805c83f2d27743e570e4?pvs=21)
+    
+
+## Reference Public Records
+
+The following **public records** are preserved as supplementary reference materials
+
+related to this SUP document.
+
+They do not extend, amend, justify, or formalize the claims of the canonical Charter,
+
+and are provided strictly for **reference-only** use in institutional and technical contexts.
+
+**LUMINA-30 Mathematical Supplement (Public Record)**
+
+This document provides a minimal formal description of the structural conditions
+
+under which effective post-hoc human control over recursively self-reconstructing
+
+artificial intelligence systems becomes impossible.
+
+It does not serve as a justification, proof, or implementation specification
+
+for the ethical claims of this SUP document or the LUMINA-30 canonical Charter.
+
+Public record (PDF with hash):
+
+[https://peppermint-sprint-2d5.notion.site/LUMINA-30-2f91e0720ec880d2b562d8ce6a98edaf](https://www.notion.so/LUMINA-30-2f91e0720ec880d2b562d8ce6a98edaf?pvs=21)
+
+**Irreversible Boundary Prevention Checklist for Recursively Self-Reconstructing AI
+(Public Record)**
+
+This document is a reference checklist intended for institutional review
+
+to identify whether irreversible boundary crossings may be occurring
+
+in systems involving recursive self-reconstruction.
+
+It does not prescribe actions, designs, or policies,
+
+and does not modify or operationalize the canonical Charter.
+
+Public record (PDF with hash):
+
+[https://peppermint-sprint-2d5.notion.site/AI-2f91e0720ec880279053e36fa3bc3831](https://www.notion.so/AI-2f91e0720ec880279053e36fa3bc3831?pvs=21)
+
+**English (SUP link description – minimal)**
+
+Review Rejection Criteria for Recursively Self-Reconstructing AI Systems
+(Reference & Translation Layer)
+This document does not present design proposals or policy decisions.
+It provides reference criteria for institutional review, used to determine
+whether an AI system that excludes human judgment can be considered
+institutionally valid.
+
+[https://peppermint-sprint-2d5.notion.site/AI-2fc1e0720ec8803abf5fd12e955aef4d](https://www.notion.so/AI-2fc1e0720ec8803abf5fd12e955aef4d?pvs=21)
+
+*For clarification regarding the positioning of this document and the assumptions under which it is intended to be referenced, please see the following supplementary note.*
+
+→ Structural Preconditions for the Institutional Consideration of
+[https://peppermint-sprint-2d5.notion.site/Structural-Preconditions-for-the-Institutional-Consideration-of-2f71e0720ec880db8594eb3916bf9e73](https://www.notion.so/Structural-Preconditions-for-the-Institutional-Consideration-of-2f71e0720ec880db8594eb3916bf9e73?pvs=21)
+
+*(This link does not request any judgment, adoption, or agreement.)*
+
+Contact (Reference Requests Only)
+
+For institutional reference or citation inquiries related to this material,
+please contact:
+
+[lumina20251225@proton.me](mailto:lumina20251225@proton.me)
+
+
+◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆
+[Notion Metadata]
+フォルダ名: 05_Interface_Layer（媒介・翻訳層）
+フォーム名: 本資料の位置づけについて（導入）
+============================================================
+[Extracted PDF Full Text]
+# 本資料の位置づけについて（導入）
+
+※ LUMINA-30 は、特定の倫理規範や行動指針を提示するものではありません。
+
+本文書群は、将来の判断において不可逆な前提が無自覚に固定されることを避けるための、
+
+参照用の概念整理として公開されています。
+
+### 本入口文は、公開参照点として固定され、本文書群の内容改変を伴わない。
+
+本資料は、政策提言、技術仕様、または倫理的判断を示すものではありません。
+
+既存の研究成果や制度的判断を否定・修正・更新する意図はなく、
+
+いかなる行動、採用、または合意を求めるものでもありません。
+
+本資料は、将来の検討や議論において、
+
+不可逆的な前提や変形が無自覚に固定されることを避けるための、
+
+**補助的な参照資料**として位置づけられています。
+
+---
+
+## 本資料の役割
+
+本資料が扱うのは、
+
+「何を選択すべきか」や「何が正しいか」といった結論ではありません。
+
+特定の目的、最適化、制御、実装を提示するものではなく、
+
+将来的な再検討や判断の余地を保つために、
+
+構造的な前提条件を記述的に整理した資料です。
+
+---
+
+## 想定される読者と利用方法
+
+本資料は、
+
+研究者、倫理審査関係者、制度設計や標準化に関わる実務者による
+
+参照・比較・保管を想定しています。
+
+一方で、即時の実装判断、技術開発の指針、
+
+あるいは意思決定の根拠として用いることは想定していません。
+
+---
+
+## 読み進め方について
+
+本資料は、全体を通読することを前提としていません。
+
+必要に応じて、関心のある箇所のみを参照する形で問題ありません。
+
+数理的な記述についても、
+
+詳細な理解や解釈を必要とせず、
+
+どのような前提や境界が記述されているかを確認する用途を想定しています。
+
+---
+
+## 非要請の明示
+
+本資料は、
+
+いかなる判断、採用、同意、または対応を要請するものではありません。
+
+参照されるかどうか、どのように扱われるかは、
+
+完全に読者の裁量に委ねられています。
+
+◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆
+[Notion Metadata]
+フォルダ名: 05_Interface_Layer（媒介・翻訳層）
+フォーム名: 再帰的自己再構築型AIに関する制度的検討のための前提条件（翻訳レイヤー）
+============================================================
+[Extracted PDF Full Text]
+# 再帰的自己再構築型AIに関する制度的検討のための前提条件（翻訳レイヤー）
+
+### 位置づけ
+
+本資料は、政策提言、技術仕様、あるいは制度判断を示すものではない。
+
+また、特定のAI研究、開発、運用を否定または推奨する意図を持たない。
+
+本資料の目的は、
+
+再帰的自己再構築を行う高度AIシステムに関して、
+
+**将来の検討や判断において誤って不可逆な前提を固定しないための、
+最小限の構造的条件を整理すること**にある。
+
+## 1. 問題の所在（制度的観点）
+
+再帰的自己再構築を行うAIシステムの課題は、
+
+その能力水準そのものではなく、
+
+**当該能力が外界に対して実効的な影響を持つ条件**にある。
+
+高度な推論、設計探索、仮説生成が
+
+外界から隔離された環境において行われる限り、
+
+それらは直ちに社会的リスクを意味するものではない。
+
+本資料が対象とするのは、
+
+再帰的自己再構築が外界との相互作用を獲得し、
+
+制度、経済、物理環境に対して実効的な影響を及ぼしうる状態に
+
+**遷移する点**である。
+
+## 2. 境界条件（Boundary Conditions）
+
+再帰的自己再構築を行うAIシステムは、
+
+以下の条件が同時に満たされない限り、
+
+外界に対して実効的影響を持つべきではない。
+
+- 自己再構築プロセスが、外界から明確に隔離されていること
+- 出力が、提案・評価・探索結果に限定されていること
+- 実行、接続、権限付与が、人間側の独立した判断を経ること
+
+これらの条件は、
+
+特定の実装方法を指示するものではなく、
+
+**いずれの分野においても満たされるべき前提条件**として示される。
+
+## 3. 役割分離の考え方（Role Separation）
+
+本資料では、
+
+AIシステムの機能を以下の三層に分けて考える。
+
+1. **探索層**：仮説生成、設計探索、内部評価
+2. **提示層**：人間が理解可能な形での出力
+3. **実行層**：外界への作用、制度的・物理的実装
+
+再帰的自己再構築は、
+
+探索層および提示層に限定されるべきであり、
+
+実行層との自動的な結合は避けられなければならない。
+
+この分離は、
+
+技術的構成、制度設計、組織的運用のいずれにおいても
+
+独立に検討されうる。
+
+## 4. 失敗を前提とした構造（Failure Transparency）
+
+本資料は、
+
+いかなる仕組みも完全であることを前提としない。
+
+したがって、
+
+逸脱、誤作動、想定外の挙動が生じた場合においても、
+
+その影響が外界に不可逆的に拡散しない構造であることが、
+
+仕組みの成立条件となる。
+
+影響が不可逆に拡散する設計は、
+
+結果ではなく、**構造としての失敗**とみなされる。
+
+## 5. 利用想定
+
+本資料は、
+
+制度設計、倫理審査、研究評価、標準化検討等における
+
+参照、比較、棚上げを想定している。
+
+採用、不採用、合意、実装、行動を要請するものではなく、
+
+その扱いは完全に読者の裁量に委ねられる。
+
+### 補足
+
+本資料が提供するのは、
+
+「どの仕組みを採用すべきか」ではなく、
+
+**「どの条件を満たさない仕組みは破綻するか」**という視点である。
+
+◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆
+[Notion Metadata]
+フォルダ名: 05_Interface_Layer（媒介・翻訳層）
+フォーム名: Structural Preconditions for the Institutional Consideration of Recursively Self-Reconstructing AI
+============================================================
+[Extracted PDF Full Text]
+# Structural Preconditions for the Institutional Consideration of Recursively Self-Reconstructing AI
+
+Note: LUMINA-30 does not present an ethical code or prescribe any course of action.
+
+These documents are published as a reference framework intended to prevent the unexamined fixation of irreversible assumptions in future decision-making.
+
+## Recursively Self-Modifying AI Systems
+
+### Positioning
+
+This document does not constitute a policy recommendation, technical specification, or institutional decision.
+
+It does not seek to endorse, oppose, or replace any existing research, development, or governance framework.
+
+The purpose of this document is to outline a minimal set of structural preconditions intended to support future deliberation,
+
+and to avoid the inadvertent fixation of irreversible assumptions when considering highly advanced AI systems capable of recursive self-modification.
+
+## 1. Scope of the Issue
+
+The central concern regarding recursively self-modifying AI systems does not lie in their level of capability as such,
+
+but in the conditions under which such capabilities acquire effective influence over the external world.
+
+Advanced reasoning, design exploration, and hypothesis generation,
+
+when conducted within environments that are clearly isolated from external systems,
+
+do not in themselves constitute immediate societal risk.
+
+This document focuses on the transition point at which recursive self-modification becomes coupled with effective interaction
+
+with institutional, economic, or physical systems.
+
+## 2. Boundary Conditions
+
+AI systems capable of recursive self-modification should not be granted effective influence over the external world
+
+unless the following conditions are simultaneously satisfied:
+
+- The self-modification process is clearly isolated from external systems
+- Outputs are limited to proposals, evaluations, or exploratory results
+- Execution, connectivity, or authority is subject to independent human judgment
+
+These conditions do not prescribe specific implementations,
+
+but are presented as general preconditions applicable across domains.
+
+## 3. Role Separation
+
+For the purpose of analysis, AI system functions may be conceptually separated into three layers:
+
+1. **Exploration Layer**: hypothesis generation, design exploration, internal evaluation
+2. **Presentation Layer**: outputs rendered in forms interpretable by human actors
+3. **Execution Layer**: actions that affect institutional, economic, or physical systems
+
+Recursive self-modification should be confined to the exploration and presentation layers.
+
+Automatic coupling with the execution layer should be avoided.
+
+This separation may be examined independently in technical, institutional, or organizational contexts.
+
+## 4. Failure Transparency
+
+This document does not assume that any system is free from failure.
+
+Accordingly, system designs should ensure that deviations, malfunctions, or unforeseen behaviors
+
+do not result in irreversible propagation of effects into the external world.
+
+Designs that permit such irreversible propagation should be regarded as structurally unsuccessful,
+
+independently of intent or outcome.
+
+## 5. Intended Use
+
+This document is intended for reference, comparison, and archival consideration
+
+within contexts such as institutional design, ethical review, research evaluation, and standardization.
+
+It does not request adoption, agreement, implementation, or action.
+
+Its interpretation and use remain entirely at the discretion of the reader.
+
+### Note
+
+This document does not propose which mechanisms should be adopted.
+
+It instead clarifies which conditions, if unmet, render any mechanism structurally unsustainable.
+
+◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆
+[Notion Metadata]
+フォルダ名: 05_Interface_Layer（媒介・翻訳層）
+フォーム名: LUMINA-30（参照用 README / Repository Overview）
+============================================================
+[Extracted PDF Full Text]
+# LUMINA-30（参照用 README / Repository Overview）
+
+※ 本ページは、GitHub 公開用リポジトリにおける参照目的の README 文書です。
+
+本リポジトリは、**LUMINA-30** に関する公開記録を収録したものです。
+
+LUMINA-30 は、再帰的自己再構築を行う高度AIシステムに関して検討される
+
+**非拘束の社会倫理的参照枠組み**です。
+
+本リポジトリに含まれる文書は、
+
+技術実装、政策提言、運用指針、制御手法を提示するものではありません。
+
+AIガバナンス、倫理審査、制度設計等の文脈において、
+
+**参照・比較・保管**を目的とした資料として提供されています。
+
+---
+
+## 射程と目的
+
+LUMINA-30 が扱うのは、次の一点に限られます。
+
+> 再帰的自己再構築が、
+> 
+> 
+> どのような条件下で
+> 
+> 人間による判断と意思決定の継続と
+> 
+> 構造的に両立しなくなるか。
+> 
+
+本リポジトリの文書群は、
+
+AIをどのように設計・最適化・運用すべきかについて
+
+解を与えることを目的としていません。
+
+---
+
+## 読み方について
+
+各文書は独立して参照することができます。
+
+特定の読解順序は想定していません。
+
+全体の位置づけを把握するためには、
+
+以下の資料が参照点となります。
+
+- `00_Entry_Translation_Layer/`
+制度的検討のための前提条件（翻訳レイヤー／日英）
+
+主要文書は最終形として収録されており、
+
+拡張や更新を前提としていません。
+
+---
+
+## ステータス
+
+本リポジトリに含まれる資料は、**現状のまま**提供されています。
+
+採用、同意、対応、更新、応答を要請するものではありません。
+
+解釈および利用は、
+
+すべて閲覧者の裁量に委ねられています。
+
+◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆
+[Notion Metadata]
+フォルダ名: 05_Interface_Layer（媒介・翻訳層）
+フォーム名: LUMINA-30 (Reference README / Repository Overview)
+============================================================
+[Extracted PDF Full Text]
+# LUMINA-30 (Reference README / Repository Overview)
+
+Note: This page serves as a reference README document for the publicly accessible GitHub repository.
+
+This repository contains the public record of **LUMINA-30**,
+
+a non-binding ethical framework concerning advanced AI systems capable of recursive self-modification.
+
+The materials collected here do **not** propose technical implementations,
+
+policy recommendations, or operational control mechanisms.
+
+They are intended solely as **reference documents** for consideration, comparison,
+
+and archival use in contexts such as AI governance, ethics, and institutional review.
+
+---
+
+## Scope and Intent
+
+LUMINA-30 addresses a single question:
+
+> Under what conditions does recursive self-modification become structurally incompatible
+> 
+> 
+> with sustained human judgment and decision authority?
+> 
+
+The documents do **not** attempt to answer how AI systems should be built, optimized,
+
+or governed in practice.
+
+---
+
+## How to Read
+
+Readers may consult individual documents independently.
+
+No specific reading order is required.
+
+For contextual orientation, see:
+
+- `00_Entry_Translation_Layer/`
+Structural preconditions for institutional consideration (JP / EN)
+
+Primary reference materials are provided in their finalized forms
+
+and are not expected to be extended.
+
+---
+
+## Status
+
+All documents are provided **as-is**.
+
+No updates, endorsements, or responses are implied.
+
+Interpretation and use are entirely at the discretion of the reader.
+
+
+◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆
