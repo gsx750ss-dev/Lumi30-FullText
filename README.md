@@ -1,13 +1,7 @@
-# Lumi30-FullText
+# Lumi30-FullText (Extract Reference)
 
-This repository contains extracted reference text of LUMINA-30.
+This repository is an extract-only reference corpus for LUMINA-30 (non-binding).
+The canonical originals are the fixed PDFs / public record sources; this text may contain formatting drift from extraction.
+Use for search, quoting, and offline review; do not treat this as normative or prescriptive guidance.
 
-The canonical source is the fixed PDF version.
-This repository exists for structural visibility and search accessibility only.
-
-The text here is extracted from Notion browser view or fixed text-based PDFs.
-Formatting differences may occur during extraction.
-
-No doctrinal modification is introduced here.
-Final interpretation must refer to the canonical PDF files.
-
+- Canonical map / entry point: https://github.com/gsx750ss-dev/lumina-30-overview
