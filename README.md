@@ -1,3 +1,4 @@
+<!-- L30_LANG_LOCK: EN_JP_PAIRED -->
 # Lumi30-FullText
 
 Complete extracted reference text of LUMINA-30.  
@@ -89,5 +90,3 @@ It preserves structural integrity only.
 
 本リポジトリは新規主張を追加せず、  
 構造整合性のみを保持する。
-
-
