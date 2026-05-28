@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="en" data-l30-lang-lock="EN_JP_PAIRED">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="l30:lang-lock" content="EN_JP_PAIRED" />
+  <title>Lumi30-FullText</title>
+  <style>
+    :root {
+      color-scheme: light dark;
+      --bg: Canvas;
+      --panel: color-mix(in srgb, Canvas 92%, CanvasText 8%);
+      --text: CanvasText;
+      --muted: color-mix(in srgb, CanvasText 68%, Canvas 32%);
+      --line: color-mix(in srgb, CanvasText 28%, Canvas 72%);
+      --accent: LinkText;
+      --soft: color-mix(in srgb, Canvas 88%, CanvasText 12%);
+    }
+    * { box-sizing: border-box; }
+    body { margin: 0; background: var(--bg); color: var(--text); font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; line-height: 1.72; }
+    main { max-width: 920px; margin: 0 auto; padding: 2rem 1.25rem 4rem; }
+    nav, .card { border: 1px solid var(--line); background: var(--panel); border-radius: 16px; }
+    nav { display: flex; flex-wrap: wrap; gap: .6rem; padding: .75rem; margin-bottom: 1.5rem; }
+    a { color: var(--accent); }
+    nav a { text-decoration: none; border: 1px solid var(--line); background: var(--soft); padding: .45rem .7rem; border-radius: 999px; }
+    h1 { font-size: clamp(2rem, 5vw, 3rem); line-height: 1.12; margin: .2em 0 .35em; }
+    .lead { color: var(--muted); font-size: 1.05rem; }
+    .card { padding: 1rem; margin: 1rem 0; }
+    .note { color: var(--muted); font-size: .95rem; }
+
+  </style>
+</head>
+<body>
+<main>
+  <nav aria-label="Repository navigation">
+    <a href="https://lumina-30.github.io/lumina-30-overview/">Overview</a>
+    <a href="https://lumina-30.github.io/Lumi30-Index/">Index</a>
+    <a href="https://lumina-30.github.io/lumina30-incident-review/">Incident Review</a>
+    <a href="https://github.com/lumina-30/Lumi30-FullText">GitHub Source</a>
+  </nav>
+  <h1>Lumi30-FullText</h1>
+  <p class="lead">Plain-text full reference archive for preservation, search, and cross-analysis.</p>
+  <p class="lead">本文保管・検索・横断分析のための全文抽出参照repoです。</p>
+  <div class="card">
+    <strong>Reader note ｜ 読者向け注記</strong>
+    <p>This page is a lightweight HTML entry point. The repository Markdown files remain the source text for preservation, search discoverability, existing links, and review.</p>
+    <p>このページは軽量なHTML入口です。repo内のMarkdownは、本文保管、検索到達性、既存リンク維持、レビューのためのソース本文として残します。</p>
+  </div>
+  <p><a href="https://github.com/lumina-30/Lumi30-FullText/blob/main/README.md">Open README source ｜ READMEソースを開く</a></p>
+</main>
+</body>
+</html>
