@@ -1,4 +1,14 @@
 <!-- L30_LANG_LOCK: EN_JP_PAIRED -->
+> **Use the HTML entry for reading ｜ 閲覧にはHTML入口を使用してください**  
+> For reader-facing navigation, language separation, return paths, and long-form browsing, use the HTML entry rather than staying on this README.md:  
+> [Open English HTML](https://lumina-30.github.io/Lumi30-FullText/index.html)  
+>
+> 日本語で読む場合も、このREADME.mdに留まらず、日本語HTML入口を使用してください：  
+> [日本語HTMLを開く](https://lumina-30.github.io/Lumi30-FullText/index-ja.html)  
+>
+> This README.md is retained for source text preservation, search discoverability, existing links, source review, and version comparison.  
+> 本README.mdは、本文保管、検索到達性、既存リンク維持、ソース確認、差分確認のために残しています。
+
 # Lumi30-FullText
 
 Complete extracted reference text of LUMINA-30.  
