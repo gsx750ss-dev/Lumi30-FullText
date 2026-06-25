@@ -57,9 +57,9 @@ Use this repository when the complete plain-text structure is needed for search,
 
 検索、比較、AI支援レビュー、長文引用補助のために全文テキスト構造が必要な場合に、このrepoを使用する。
 
-For first-time conceptual understanding, use [Conceptual Overview ｜ 概念概要](https://github.com/lumina-30/lumina-30-overview). For public citation routing, use [Public Reference ｜ 公開参照ハブ](https://github.com/lumina-30/lumina30-public-reference). For fixed PDF artifacts and hashes, use [PDF Archive ｜ PDF固定配布](https://github.com/lumina-30/Lumi30-PDF-Archive) and [Public Record ｜ 公開記録真正性](https://github.com/lumina-30/Lumi30-Public-Record).
+For a first visit, use [Start by Concern](https://lumina-30.github.io/Lumi30-Index/start-by-concern.html). For public citation routing, use [Public Reference ｜ 公開参照ハブ](https://github.com/lumina-30/lumina30-public-reference). For fixed PDF artifacts and hashes, use [PDF Archive ｜ PDF固定配布](https://github.com/lumina-30/Lumi30-PDF-Archive) and [Public Record ｜ 公開記録真正性](https://github.com/lumina-30/Lumi30-Public-Record).
 
-初見の概念理解には [Conceptual Overview ｜ 概念概要](https://github.com/lumina-30/lumina-30-overview) を、公開引用導線には [Public Reference ｜ 公開参照ハブ](https://github.com/lumina-30/lumina30-public-reference) を、固定PDF成果物とハッシュ確認には [PDF Archive ｜ PDF固定配布](https://github.com/lumina-30/Lumi30-PDF-Archive) および [Public Record ｜ 公開記録真正性](https://github.com/lumina-30/Lumi30-Public-Record) を使用する。
+初めて読む場合は [関心から入る](https://lumina-30.github.io/Lumi30-Index/start-by-concern-ja.html) を、公開引用導線には [Public Reference ｜ 公開参照ハブ](https://github.com/lumina-30/lumina30-public-reference) を、固定PDF成果物とハッシュ確認には [PDF Archive ｜ PDF固定配布](https://github.com/lumina-30/Lumi30-PDF-Archive) および [Public Record ｜ 公開記録真正性](https://github.com/lumina-30/Lumi30-Public-Record) を使用する。
 
 ## Why Plain Text? ｜ なぜテキスト形式か
 
